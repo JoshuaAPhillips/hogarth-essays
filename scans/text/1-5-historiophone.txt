@@ -1,0 +1,630 @@
+HISTRIOPHONE
+
+A Dialogue on Dramatic Diction: persons, BENTUAS and
+HELTUBADA: 
+
+scene, a library, in which every book wanted is immediately at elbow, and opens miraculously at the required place.
+
+HELTUBADA. Nothing, my dear BENTUAS, seems to me more tedious than the efforts poets make to write their plays in verse. The commonplace they try to dignify in stilted forms; and things, which plainly stated might have life, they bring to dreary ruin. Why do you laugh?
+
+BENTUAS. At your paradox: you’ve been railing against blank verse, and all the while employing the ‘stilted form.’ Dryden would have delighted to take you in illustration of his remark on ‘‘ prose mésurée ; into which the English tongue so naturally slides, that in writing prose, ’tis hardly to be avoided.’’! But as to your matter, I’m not myself averse to an artificial medium ; though my line would rather be that blank verse is not a suitable stage instrument as written by our modern poets; and fluently used, as in later Shakespearean times, is not artificial enough.
+
+HELTUBADA. Can you really be in favour, so late in the day, of a return to ‘ poetic drama,’ and all the horrors of a Stephen Philips? Can you bear the idea of our dramatists hitching themselves into verse on the most ordinary and tea-table occasions?
+
+BENTUAS. I’m afraid you’ve been listening to the older generation with their mystic notion of poetry, and their idea of ‘heightening’ sense, a sad heritage from the Restoration,  "How naturally Shakespeare soars into verse whenever his subject requires it," we hear; at which claptrap I always think on the one hand of :—
+
+Good Bardolph, put thy face between his sheets
+
+And do the office of a warming pan (Henry V., II. :) and on the other, of the prose passages in Hamlet. I see no difference between drama and poetic drama; plays are well written or badly written, that is all. The medium, the choice of diction, are the author’s own affair. Thus when Mr. Saintsbury, for whom every lover of literature must feel the greatest respect and gratitude, writes "but Shakespeare moulds his blank verse so impeccably that it never sounds unnatural doing prose office,"! I fail to grasp his meaning.
+
+HELTUBADA. I am equally at a loss when you say there is no difference between prose and verse; and to show the absurdity of your contention, I would ask how it is that most of the drama of our greatest period was written, not in prose, but in the ‘ other harmony ?”
+
+BENTUAS. That it is an ‘other harmony’ I hasten to agree: it is the point of the ‘ otherness’ that has been falsified. The question as to why the Elizabethans wrote in blank verse is quickly answered: they found it easier.
+
+HELTUBADA. That is the crank’s reason Shaw maintained in his prologue to The Admirable Bashville; but his own practice—nobody admires his sinewy phrasing more than I do—scarcely bears him out.
+
+BENTUAS. The reason sounds cranky for being only half stated. Blank verse may not be easier to write, but it is easier to say than the bulk of prose, and much more readily remembered. That at once gives it a higher merit as an actors’ medium, an opinion towards which I hope to lure you by quoting Vanbrugh’s case. You remember how Cibber said in his Apology that ‘‘ there is something so catching to the ear, so easy to the memory in all he writ, that it has been observed by all the actors of my time that the style of no author whatsoever gave their memory less trouble’’? Now his blank verse, which the Mermaid editors print as prose, is execrable stuff, pr@sodically considered; but it has the qualities Cibber noted, though not to the same degree as has his prose. And the reason is that his prose is very often better blank verse. Look, for instance, at this piece written in truncated lines :—
+
+Behold a burning lover at your feet,
+His fever raging in his veins!
+See how he trembles, how he pants !
+See how he glows, how he consumes !
+(The Relapse, V. 4) 
+
+which for rhythmic structure compares badly with any passage of his current prose.
+
+HELTUBADA. You used the phrase ‘ prosodically considered,’ as though there were any other way of intending, one’s mind upon verse.
+
+BENTUAS. Indeed there is, I think, another way, which I will, if you like, call -‘ histriophonically considered.’ But I’m afraid that if I go on I shall scorch your ears with heresy.
+
+HELTUBADA. You cannot shock, because I hold no doctrine.
+
+Benruas. Yet you must remember, Heltubada, that I’m discussing, not the making of verse, but the result to the ear; just as when I speak of the architecture of Hampton Court I refer to its effect on the eye, and not to the calculations of Wren. Neither must you ever forget that when I use the term 'blank verse,’ I mean only that written on purpose for the stage.
+
+HELTUBADA. I hate your odious provisos. We may never meet, but we can amicably pursue the same game. ;
+
+BENTUAS. I would judge blank verse, then, not one pea of prosody (which, of course, it has, but whic pe concern of ours) so much as on a histriophonic Putas bhe must ask ourselves the question: Does it fulfil the requirements of a good stage instrument? Such should impose the stress on the right word for sense, and so make the lines actor-proof: it should be flexible, that is, admit of pace variations so as to lend itself to narrative speed as well as to rhetorical force; and, finally, it should be easily fitted to the capacity of the human lung and voice when speaking English at a pitch above the ordinary.
+
+HELTUBADA. Then we need no longer harass our hearts with trochaic substitutions, acatalectic lines, and all the elaborate frivolity of the text-books ?
+
+BENTUAS. No more than a fisherman bothers about the atomic fabric of his gut; and by this method we shall save ourselves the phrase so often seen in the correspondence columns of the literary papers, “‘ Surely Shakespeare’s ear would never have tolerated ’’ what as, likely as not, he passed as perfectly sound.?
+
+HELTUBADA. I remember Coleridge boggled at a line in Hamlet,
+
+How prodigal the soul
+Lends the tongue vows: these blazes, daughter ... 
+
+and remarked, ‘‘ A spondee has, I doubt not, dropped out of the text.” With the irresponsible levity of most Shakespeare commentators, he proposed to insert ‘‘ Go to” before ‘“‘ these blazes,’ or ‘‘mark you ”’ after “‘ daughter,’’ founding his argument on the “‘ uniform respectability ”? of Polonius!? But tell me how you think the Elizabethans came to discover that blank verse was the easiest of all mediums?
+
+BENTUAS. Like many other rare finds, it seems to us who come after the event, as due to a succession of happy chances that produced the right men just when the knowledge needed to be matured.
+
+It was luck that made the Earl of Surrey graft the form off an Italian tree onto our English stock just a few years before Thomas Sackville came to write a tragedy. Craftsman’s curiosity led the latter to choose for Gorboduc (1561) the new rhymeless, decasyllabic metre, and everybody knows the rather stiff beginning :—
+
+The silent night that brings the quiet pause,
+From painful travails of the weary day, 
+
+but, as his pen grew less pupil, he escaped from such neat arrangement of iambic feet, and ventured into :—
+
+Though we remain without a certain prince,
+To wield the realm, or guide the wand’ring rule,
+Yet now the common mother of us all,
+Our native land, our country, that contains
+Our wives...
+(V.2.) 
+
+and so on. The change is not great; the line is structurally end-stopped, but there is less of a hobbling effect. Gascoine did not much improve upon him, limping valiantly through Jocasta (1566), not only shackled to his verse form, but exuberantly rattling his chains. 
+
+HELTUBADA. Certainly I can never read him without recalling the fragment of Catullus, 
+
+At non effugies meos iambos,
+
+and I can imagine an audience cowering under :— 
+
+But fiercely straight, the armies did approach 
+Swarming so thick, as covered clean the field, 
+When dreadful blast of braying trumpets sound, 
+Of doleful drums, and thund’ring cannon shot 
+Gave hideous sign of horror of the fight.
+(IV. 1)
+
+BENTUAS. At the beginning blank verse structure was far too rigid, and the pack of University wits, well kept together by Gabriel Hervey, did little to free the playwrights. ‘
+
+HELTUBADA, I see that at any rate you’re determined
+to scarify the prosodists.
+
+BENTUAS. Far from it; their works, sometimes delightful,
+are always useful, because they make us think the thing anew. But English verse can usually be made to fit into any system provided we make enough play of pauses, inversions, and substitutions. I protest that the spectacle of prosodists eagerly scanning a page of verse, muttering to themselves while with falling thumbs they keep the time, fills me with reverence. Moreover, the works of Gascoine himself, Campion, James VI. of Scotland, Webbe, and others, was invaluable; and even Puttenham, when not floundering in ‘‘ A generall resemblance of the Roundell to God, the World and the Queene,”’ or so, had something useful to say. But in criticism practice precedes theory, and we come to the second lucky chance——
+
+HELTUBADA. When ‘“ Marlowe’s thought in thunderous music spake.’’
+
+BENTUAS. —and made Tamburlaine one of the first of the popular successes. Custom by now decreed that plays were to be written in verse — Lyly is here rather beside our point — the rhymeless kind had classical precedent, and so the instrument persisted, to lie to hand for the great school of author-actors who created the Elizabethan stage. But their method of attack was new. They were not concerned to write poetry, or ‘ poetic drama ’; they panted to write plays. Young, active, rebellious against the jargon of the pedants, glowing with the romantics’ dislike of restraint, they adopted blank verse, not as a limit the artist willingly.imposes upon himself, but as a medium which they could freely employ as the handiest servant of their muse.
+
+HELTUBADA. To quote Swinburne again, you believe Marlowe to have been the “‘ creator of English blank verse ?’?!
+
+BENTUAS. Almost, from my point of view; for as it existed, say at about 1585, it was by no means a good stage medium. It was unwieldy, slow, and above all, evenpaced. The actor-authors learned by experience in the theatre what, were the essentials of a good stage instrument
+
+HELTUBADA. I’m all agog for you to unfold your heresy and prove blank verse the easiest form of writing for the English stage.
+
+BENTUAS. My dear HELTUBADA, I have no wish to prove anything: I’m following a track, and you agreed I The Age of Shakespeare. Christopher Marlowe, we might hunt together. And here I must insist that what we are now discussing is not poetry, but rhetoric, and that ‘“‘ the business of an  orator,’’ as Hazlitt remarked,’ ‘‘ is not to convince, but persuade; not to inform, but to rouse the mind.’’ Actors are in a sense orators, rhetoric is a special instrument, and that is why the prose of Donne’s most terrifying sermons is often like that of Jonson’s most amusing plays.
+
+I would begin by saying that all English verse may be regarded as the arrangement of stresses in a sentence; and the dramatists found that the most convenient measure for the actor was a line of approximately ten syllables, with, on the average, three stresses. For certain effects there might be fewer stresses, or more; but the typical line became with Marlowe, Kyd, and their follower Greene, formed on the pattern of :—
+
+And ride in triumph through Persépolis. (Tamburlaine.) 
+
+To sée the slaighter of our énemies. (Tamburlaine, I1., III., 5)
+
+Soliciting for justice and revénge. (The Spanish Tragedy.) 
+
+Bróught for eternal péstilence to the world. (Orlando Furioso.)
+
+where the stresses fit themselves easily to the sense. Five stresses had been almost entirely abandoned, and when four were used they served to slow down the declamation :— 
+
+Is this is the fáce that launched a thoúsand ships 
+And búrned the topless towers of Ilium. (Faustus.) 
+
+HELTUBADA. Hm! I see. 
+
+Eyes, life, world, heav’ns, hell, night, and day, 
+See, search, shew, send some man, some mean, that may—— 
+
+What d’you think of that? 
+
+BENTUAS. It sounds like a piece of Gerard Hopkins. 
+
+HELTUBADA. Arid is, in point of fact, another morsel from The Spanish Tragedy (I11. 2). 1 admit it an exception, but it serves to test your rule.
+
+BENTUAS. I could help you to dozens of such tests, but I make no rule; I merely suggest a norm. And in the earlier playwrights, especially in Kyd, it is often doubtful where the stress should come, even when it is plain it can come only three times. Take, for instance :—
+
+Hieronimo, why writ I of thy wrongs? (Spanish Tragedy) 
+
+It’s clear that the weight must come on Hierónimo and on wrongs, but may come either on why, or writ, though not, conveniently, on both.
+
+HELTUBADA. Your blank verse, then, would tend to become trochee-dactylic or anapaestic, rather than iambic? 
+
+BENTUAS. I would prefer to avoid those terms, admitting frankly that they would land me in a most unhappy muddle.
+
+HELTUBADA. What, then, is your blank verse? Can your .‘ approximately’ ten syllable line be expanded and squeezed indefinitely, after the manner of Alice, by nibbling a mushroom labelled Three Stresses ?
+
+BENTUAS. I’m not discussing prosody, but I may say in passing that I don’t believe poetry can be scanned on a stress basis alone, leaving the unstressed syllables to take care of themselves. As to blank verse, like Meister Eckerhart and his God, I would rather state what it is not than what it is, though I hope to be able to illustrate what it performs. At any rate, it is not any collection of ten syllables.
+
+HELTUBADA. ‘ A Mr. Wilkinson, a clergyman.”’
+
+BENTUAS. I would give you, instead of that justly famous line, a sentence from The Education of Henry Adams:
+
+"--more than he could struggle with; more than he could call on himself to bear.’’ Nothing will force those last ten syllables into tolerable verse; but
+
+More than he could bring himself to bear
+
+is no very poor one, with nine syllables. For myself, I would rather make isochronous periods the cadre of blank verse, and to my mind, these four lines from Catiline (V. 5) are really five verse periods of three stresses each :—
+
+1 For no man éver yet changed péace for war 
+2 But hé that mednt to cónquer. 
+3 Héld that purpose. 
+4 There’s mére necéssity you should be such, 
+5 In fighting for yoursélves, than théy for others. 
+
+This would also dispose of the difficulty of the ** fourteener ’’ in Lear (I., 1) :— 
+
+May be presented now. The princes, France and Burgundy. 
+
+HELTUBADA. How dispose? Yet another Procrustes? 
+
+BENTUAS. By printing, or at least saying the passage :— 
+
+Our daughters’ séveral dówers, 
+That fúture strife may be prevénted néw. 
+The princes, Fránce and Búrgundy, 
+Great rivals, etc. 
+
+Usage, however, or the habits of compositors, pinched off the meat in equal sausage lengths. Dryden, insisting on another method, wrote :— 
+
+Poor Reason ! what a wretched Aid art thou! 
+(2) For still, in spight of thee, 
+These two long Lovers, Soul and Body, dread 
+Their final separation. (All For Love, V.) 
+
+where I don’t think he meant the second line to be imperfect, padded out with a pause, but a rather slow, emphatic, three-stress line, rhetorically, if not prosodically, of the same value as the others. HELTUBADA. This is a far cry from Marlowe. 
+
+BENTUAS. Let’s go back to him then, or rather, to his last play. I give you:— 
+
+Base Fortune, now I see, that in thy wheel 
+There is a point, to which when mén aspire, 
+(3) They tumble headlong déwn : that point I touched, 
+And, séeing there was nd place to mount up higher, 
+Why should I grieve at my declining fall ?— 
+Férewell, fair quéen; wéep not for Mortimer, 
+That scorns the world, and as a traveller,
+Goes to discover countries yét unknown. (Edward II., V. 6.)
+
+There we have the paragraphing about which such a pother is made—but the breath-unit, so to speak, is still stress-grouping in threes, and perhaps the third line should contain two units. But the phrasing, to borrow an image from music, is no longer restricted to the bar; nevertheless the stress-grouping remains embodied in the larger rhythm. The progress, however, does not seem to have been from the rather merciless hammering of Marlowe to the lighter touch of Shakespeare but rather—
+
+HELTUBADA. My dear Bentuas, forgive me: abandon the chronological method for the moment, or I shall imagine myself at a lecture, and die, like a student’s wit, of academic strain. I should like to hear what you have to say about enjambment.
+
+BENTUAS. Don’t think I’m huffed if I beg you to let me talk of run-on lines, or, if you wish it, straddling: but so as not to be led off by this red herring, I will at once rush in, and declare that I think it often a mere fake.
+
+HELTUBADA. I’m inclined to agree; and remembering that we’re hunting together, was going to use such a notion in support of your theory that the blank verse really ends when three stresses have been accomplished. Prosodists may faint in horror, or cry that they cannot stop to bandy speech with owners of such indelicate ears, but as far as stage speaking goes, it seem to me that
+
+Daffodils / that come before the swallow dares 
+And take / the winds of March with beauty 
+
+is identical with the words as actually written, where ‘ daffodils ’ ends a line. The same can be said of 
+
+When you do dance, I wish you / a wave o’ the sea, 
+That you might ever do / nothing but that; 
+Move still, still so, / and own no other function. 
+(Two units.) 
+
+BENTUAS. The Winter’s Tale presents many difficulties, and I would almost say that in it Shakespeare had ceased to write blank verse, and was seeking for some other medium. The likeness of his prose to his poetry in that play lends colour to the guess. But
+
+Flower-soft hands/ that yarely frame the office.
+From the barge,/ a strange invisible perfume
+Hits the sense/ of the adjacent wharfs ... 
+
+seems to me to show that in Antony and Cleopaira, Shakespeare, without abandoning the  three-stress structure, was making the breath-unit comprise several groupings, and that the straddling was not a technical feat, but merely accidental. I admit, of course, that writing it as I have, I’ve smashed to smithereens
+
+Swell with the touches of these flower-soft hands,
+
+HELTUBADA. I feel that you’re carrying me along too quickly, and that somehow we've over-run the scent. I’m not yet convinced of your three stresses, or as to why the dramatists found such verse seductive.
+
+BENTUAS. Samuel Daniel noted that "every language hath her proper number or measure fitted to use and delight,”! and — Dryden apart — the notorious difficulty of not writing blank verse shows it to be the mould into which the English language most willingly runs. It is easier for an actor to declaim poor verse than to speak bad prose, because the framework of the verse forces the stresses into groups that are easy to Say, and into periods the lungs can easily master. Stage speech is something other than literature; it is not meant for the inward ear, like the poetry of Marvell or Coleridge, like the prose of Bolingbroke or Landor. It should be rather crude and obvious. You don’t agree?
+
+HELTUBADA. On the contrary; for it must be admitted that the drama is primarily a crude artistic medium. It may be other things as well—it has been everything—but crudeness, brutality even, is the first condition of its existence. ‘‘ L’art est, par essence, absolument inintelligible au peuple.’’! while the appeal of the drama has to be immediate, being made to the many-headed monster of the pit. Thus proud artists write their plays without ‘the most remote view to the stage,’? and Congreve knew The Way of the World would fail to please the general. One might almost say ‘ No melodrama, no drama.’
+
+BENTUAS. The Marlovian verse was at once seen to be a superb rhetorical medium, for the pit agreed with Puttenham that ‘‘ this meeter of ten syllables is very stately and heroicall.’’ It was just what was wanted by author and audience alike, for both revelled in the more,sbombastic play, and found the regular three-beat, end-stopped line admirably to the purpose. Chapman, slightly abating Marlowe’s rhetorical glamour, wove a less regularly stressed line, with more straddlings and feminine endings. In his hands the medium became more flexible, without losing the bony quality he needed for his obstinate thought, as in :—
+
+While this same sink of sensuality swells,
+Who would live sinking in it, and not spring
+Up to the stars and leave this carrion here
+For wolves, and vultures and for dogs to tear?
+(The Revenge of Bussy D’ Ambois. V.I.)
+
+where you will see moreover, that no man can be guilty of a mistake in the sense, or of error in placing the stresses.
+
+HELTUBADA. Go on with your infallibility theme, and then I'll deliver you a little speech that has been gathering in my mind while you have been talking.
+
+BENTUAS. I’ll go straight to Shakespeare, giving you only one example from him :— 
+
+But I much marvel that your lordship, having 
+Rich tire about you, should at these early hours 
+Shake off the golden slumber of repose 
+Tis most strange 
+(5) Nature should be so conversant with pain,
+(Pericles. III.2.) 
+
+and I would have you note, in line five, the need not only for three stresses, but for those three stresses to be placed exactly as they are for the line to go at all. With Webster, in The Duchess of Malfi especially, to insist on three stresses only, wonderfully clears up the actor’s problem, as in :—
+
+A slave that only smelled of ink and counters, 
+And never in’s life looked like a géntleman (III.3.) 
+
+which, pointed as I have done it, seems vividly to express Ferdinand’s vitriolic indignation. 
+
+Finally, to give myself one more support, I would ask you how, on any system but one something on the lines I’ve indicated, you would get an actor at once to balance correctly :— 
+What is beauty, saith my sufferings then? 
+
+As a mainly trochaic line, as I have said it, it’s perfect, but also perfectly inane. You see how to apply my three-stress theory ?
+
+HELTUBADA. ‘Indeed, the alteration of that accent does a great deal, Mr. Bayes.”
+
+BENTUAS. Do I really deserve to be mocked out of The Rehearsal? Suppose we have your shattering speech.
+
+HELTUBADA. I’m going to burden you with a brief discourse on one prime aspect of the drama; to suggest that no instrument which fails to aid this aspect is good for dramatic purposes; and to ask you to apply this criterion to verse.
+
+BENTUAS. By all means. Even if I think your track is false, it may cross another which leads towards our quarry.
+
+HELTUBADA. When Macduff hammers upon the gate, it is not because we feel Fate knocking at the portal that we are moved. ‘The theatre allows no time for nice conjectures; a fact De Quincey should have remembered when he wrote his famous rigmarole. It’s because the speed of the drama has changed. When in The White Devil Flamineo leaps up from his pretended death spitting out 'O cunning devils! now I have tried your love,’ we are stirred, not kecause we’re surprised, but because new movement is introduced; as any botcher up of melodrama knows when he sends a man on to the stage bellowing ‘‘ Lights, more lights.”
+
+What makes a work dramatic is not so much its obvious shape, as the structure of its changes of motion: for me The Waste Land is dramatic, and Abraham Lincoln is not. Aristotle understood this, but made his divisions too formal; the Elizabethans most certainly knew it: but it’s fatal for us to try to write plays on either the Greek or Elizabethan model, for the rhythm which moves one age to warmth may leave another chilly. The kind of change which will stir our generation is perhaps to be found in the gyrations of an aeroplane, the swirl of street traffic, or the breaking away of a Rugby scrum. But there will always be the sea, or the swing of half a flock of rooks dropping across the others, and the sway of a mother crooning to her child.
+
+A play, I think, is structurally composed, not of Sardoodledoms, or Ibsen hot-houses of preparation, but ot carefully proportioned speeds, succeeding one another in varying length and intensity. Intensity can be fast or slow; fast as the final rant in Faustus, slow as the great Giovanni-Anabella scene of Ford. Thus speed will not depend upon tension, so much as upon the texture of the language. The action must, of course, back this up; the urgent speed of the words in the battle scenes of Shakespeare’s Troilus and Cressida—you remember the magnificent ‘ Renew! Renew!’ speech —-would be no good if the action was as tedious as the library scene in Cato. Speed may, of course, be quite the reverse of intense, like the staff orders in Henry V; and so may slowness, as in the drearier passages of Brome. 
+
+The dramatic moment, as I suggested at first, is that at which a change of speed intrudes; this may be entirely emotional, as at Ferdinand’s entry into the Duchess of Malfi’s dressing room; or it may be purely physical, like an inrush of dancers. For in the drama, as in daily life, it’s not speed we feel, but change of speed; not motion, but acceleration. And since it’s my belief that dramatic effect can be brought about by the play of words alone, I would like to be convinced that blank verse is more capable of procuring this result than any other medium.
+
+I’ve done. I’m afraid I’ve been dry as a cracknel. 
+
+BENTUAS. On the contrary, and I’ll argue with pleasure that speed is the chief glory of this way of writing.
+
+The rather primitive rhythm which Marlowe made the norm of all blank verse, if the easiest to say, is, for that very reason, not suited to the expression of any deeply subtle thought. The single fact that no actor can make a mistake in it goes to show that there is probably not much about which a mistake can be made. Just now you mentioned Henry V., but I think that in the passages of narrative, command or detail of the historical plays, wé see Shakespeare, not altogether successfully, striving to endue his verse with speed. It was not, however, until he bent the medium to subtler imaginings that he was forced to give it rapidity, for here failure would have meant abandoning the medium. But more than ever the stresses had to be obvious, and, if the actor will leave them alone, his lines still unerringly say themselves, although they form sentences of a length almost unmanageable for the voice if written in anything but this ‘ measured prose.’ It was only this speed which made it feasible to act his long plays in a short time. Also, his verse at its most characteristic is easily remembered; a capital point, for the actors of the Phoenix and the Globe—to except the Queen’s players— probably had as scant time for rehearsal as the mummers at Elsinore. But the words, as Hamlet remarked in justifiable bitterness, emphatically must be allowed to come trippingly from the tongue.
+
+HELTUBADA. Poor Shakespeare! How he still suffers! I remember only the other day talking to one of the best known of our Shakespeare producers, and complaining that on a certain occasion the great lines of Claudio in Measure for Measure, ‘‘ Ay, but to die, and go we know ia not where .. .’’ had been atrociously mangled. He F replied that his actors always spoke their lines best before they were familiar enough with them to be able to suit the expression to the word - register emotion' I believe is the phrase; but that while they had to concentrate their attention upon the mere saying of the syllables, the effect was delightful.
+
+BENTUAS. I can well believe it; actors always try to improve upon their author, and seldom credit an audience with sense; wheretore, though I can forgive them as men, I can rarely tolerate them as artists. But to illustrate my previous statement about the speedy treatment of comge plicated length, let us take a passage from that very play, written after Shakespeare had rid himself of the earlier tradition. Angelo is speaking :—
+
+Admit no other way to save his life
+(As I subscribe not that, nor any other,
+But in the loss of question) that you, his sister,
+Finding yourself desired of such a person, 
+(5) Whose credit with the judge, or own great place,
+Could fetch your brother from the manacles
+Of the all-building law: and that there were
+No earthly mean to save him, but that either, 
+(9) You must lay down the treasures of your body,
+Yo this supposed, or else to let him suffer :
+What would you do? (Measure for Measure. 11.4.) 
+
+That's all one sentence; it’s not difficult to say as such. bal Aside that is, without any ‘ heightening' balderdash, or any attempt to bring out the presumed iambic ground-swell of blank verse, a mistake cannot be made. How fool-proof it is on my system of threes I can example from the fifth line, where, instead of bothering about 'great place' which offers some prosodic difficulty, I lean on ‘ own,’ which is histrio-phonically correct, sound and sense well married. The whole speech, indeed, ripples along admirably, precisely because, built upon what I have described as “ breath-units,’ it’s born to be recited. Also I would have you note, that when Shakespeare wished to be peculiarly impressive, and markedly clear, as in the ninth line, he wrote a Marlovian verse. In the remainder of the scene this happens repeatedly.
+
+HELTUBADA. I confess I’m not certain whether the stress should be on ‘lay’ or ‘ down,’ though it obviously must be on ‘ treasures ’ and ‘ body.’
+
+BENTUAS. You raise an issue where I’m afraid I am indeed heretical, for I think that stress may cover more than one syllable, though it is usually slightly more on one than on the other. Here I think it is on ‘ lay,’ and I need not really have given you that point. But in the line from Sejanus,
+
+A race of wicked acts Shall flow out of my anger and o’erspread . . . (II) 
+
+I think one has to link ‘ flow out’ into one stress ; just as in All for Love (Act V.) 
+
+Time has unrolled her glories to the last 
+And now closed up the volume
+
+the words ‘ closed up’ have to be — histriophonically — welded together,
+
+HELTUBADA. Isn’t this a little too ingenious ?
+
+BENTUAS. It would be if stresses or quantities were solid things you could arrange in rows like beads; but they’re not, for I agree with Omond that ' counting of stresses ' but a shade less mechanical than counting of syllables.””? And while on this point, I would like to make clear my belief that there are not only two kinds of noise, but scores of inflections, one can make between the highest point of a phrase and the lowest; just as that most exciting of prosodists, Thomson, holds that long and short is far too rough a division, and that there are longs and longs, shorts and shorts, not merely in a two to one ratio, but jogging along amicably in three eighths and four fifteenths.
+
+HELTUBADA. When the art of writing becomes that of arithmetic | get bored. Besides, I still want to have proved the aptness of blank verse for rhythmic changes, because I have a theory of my own: but, as the French officers said to the English at Fontenoy, ‘ Please fire first.”’
+
+BENTUAS. I wish we could go through Catiline together, scene by scene, speech by speech. I suppose that, until Dryden, Jonson was the most conscious of our dramaturgical artists, and he took more pains than the author of Aurengzebe. Catiline, at least, seems to me a rich example of the speed-structure of a play, and the speeds are almost entirely produced by the nature of the verse. Cicero’s great accusation tirade, for instance (IV. 2.), would be intolerably long were it not for the subtle changes of swiftness. Slow, with four stresses where he would be argumentative, the moment he wishes to move the Senate, Cicero goes to three stress rhetoric, achieving even a thirteen syllable line where he would be especially impressive; I mean
+
+while they sit :
+They approve it; while they suffer it, they decrée it. 
+
+which is as good as Swinburne’s would-be decassyllable
+
+Illimitable, insuperable, infinite.’ 
+
+But the great example of the moving power of threestress rhetoric is in Petrius’s speech to his men (V-1-);
+
+It is my fortune and my glory, soldiers,
+This day, to lead-you-on the worthy consul
+Képt from the honour of it by diséase:
+And I am proud to have so brave a cause
+To éxercise your arms in. . . “
+
+HELTUBADA. We must certainly go through it some time. But have you no shorter example than the whole of Catiline ?
+
+BENTUAS. One you know by heart — Antony’s famous tub-oration in Julius Caesar. Shakespeare by then had his technique at his finger tips, had experimented, and had written almost all the verse portions of Midsummer Night in three-stress metre, as he had much of Richard II. His opinion of four beats as outmoded—and note that Richard III. is almost entirely in this measure—may be gathered by his relegatign of them in Hamlet to the bumpy rant of the Player King.
+
+But to return to our muttons. Antony, at the begin| ning of his speech, is not sure of his audience; he can’t | go rushing blithely on, he must go step by step: so watch the stresses :—
+
+Friends, Romans, countrymen, lend me your ears; (5)
+I come to bury Caesar, not to praise him. (2)
+The evil that men do lives after them (2)
+The good is oft interred with their bones,
+
+where the three knocks of the last line seem to clinch the phrase. In the early part of the speech, too, the lines are mostly end-stopped: but once he feels he’s got a grip of his audience, and no more needs to step delicately, he tumbles out his three-stress, run-on lines: 
+
+But yesterday the word of Caesar might 
+Have stood against the world: now lies he there, 
+And none so poor to do him reverence. 
+
+He’s ceasing to be argumentative, and is becoming rhetorical. But there is, in the earlier part of the speech, a line I would have you note to show how flexible the three stress system is, which can either space its emphases equally, as in :— 
+
+To-morrow, and to-morrow and to-morrow, 
+
+or can huddle them all together in three consecutive syllables:— 
+
+So are they all, all honourable men. 
+
+But you said you had a theory.
+
+HELTUBADA. Which I propose to treat as all theories should be treated, that is, abandoned as soon as it ceases to bring further enlightenment. To state it will clear me of the charge you made just now of thinking verse a comic, of,course, in its rather obvious sense, and not in its recondite meaning which would make it include Troilus and Cressida, La Vida es Sueño, and Le Festin de Pierre, though the “‘ purest ’? comedy may stir profound emotions.
+
+BENTUAS. The man who can sit unmoved through Le Tartufe, or remain cold at certain passages of The Way of the World, never deserves to go to a theatre.
+
+Hetrupapa. In the kind of comedy to which I refer, we are interested not so much in what is going to happen, as in what we actually see on the stage: our attention must be held by the ungainly antics and clotted speech of the ‘rude mechanicals,’ we amg chuckle at the very sound of Sir Toby Belch’s voice, and follow every gesture, note every word of the nimble fairy who masquerades in the mountainous flesh of Falstaff. That is why those passages are written in prose. 
+
+BENTUAS. Yet, forgive my stubborness, it is noteworthy that the most famous of all Falstaff’s speeches is a blank verse couplet, though cunningly tucked away. 
+
+HELTUBADA. You mean? 
+
+BENTUAS. The better part of valour is discretion, 
+In which the better part I’ve saved my life. 
+
+But though this supports my argument, it needn’t alter yours.
+
+HELTUBADA. Now, to show that the Elizabethans didn’t regard prose as degrading, it’s enough to observe that the scenes in which they sought the uttermost depths of passion and suffering are also invariably put in prose. I mean the ‘distraction’ scenes, for I cannot even momentarily hold the theory that the poets of that time regarded madness as funny.
+
+BENTUAS. Invariably?
+
+HELTUBADA. I can, indeed, think of one in verse, Penthea’s, in The Broken Heart; but Ford softened his horror with Sentiment, and the rule is otherwise. Ophelia, of course, 1s no argument, since so much of Hamlet is in prose. But take the madmen in Webster’s Duchess (IV.2), or his Cornelia, when Marcello is first killed (The White Devil, V.2), and she is already half distracted. Blank verse, again, would not do for the winding of Marcello’s corpse (V.4), and that scene had to be set, if not in prose, at least in the more arresting medium of rhyme. Flamineo feigns distraction in prose (III. 1), and when Lear goes really mad, which he doesn’t do completely, I think, until I1V.6, his shattered mind raves itself out in that medium. The like occurs even in Greene’s burlesque, Orlando Furioso. It’s the same at the end of The Maid’s Tragedy, when Calianax is broken in brain, and I don’t see why I shouldn’t claim on my side Lady Macbeth in her sleep-walking. There, once the need for tense immobility has gone, the doctor breaks out into verse, and the movement goes on again. But I see I am overstepping into my last and largest field.
+
+BENTUAS. That the Elizabethans used prose merely as a rhythmic brake ?
+
+HELTUBADA. That is what I think, and I shall confine myself to Shakespeare for two or three instances, which I picked out the other day haphazard. Look first at Timon of Athens. You'll have observed that the second dinner scene (III. 6) is mainly in prose, while the earlier one (I., 1) is almost entirely in verse. Now note exactly where the second dinner comes; it is between the scene where Alcibiades storms against the senators, and that where Timon rages like the embodiment of a curse before the curtain of the wall of Athens. Both are swift and angry scenes, full of imprecation. The dinner scene, too, is angry, and not lacking in oaths; but except where the host bursts out fuming against his callous friends, is in prose, purely I believe, to make a change in rhythm.
+
+Coriolanus, V.2, is also a good example of changes of tone produced almost entirely by alterations of the measure. The scene opens with the arrival of Menenius from Rome to speak with Coriolanus ; and this part, being explicatory, is in verse.
+
+BENTUAS, It also contains the involved metaphorical speech
+
+28 HISTRIOPHONE
+
+about ‘ amplifying Coriolanus’ fame,’ which would be difficult to manage in prose. 
+
+HELTUBADA. Your gun once in hand, you may kill a bird or a badger with it. Next, to get a sense of stop, the guards turn to prose, indicating also the pulling up short of Menenius. They become, however, rather more fluid a. in the longer poetical speech, with sentences like "Can you think to blow out the intended fire your city is ready to flame in, with such weak breath as this?" Then Coriolanus comes, to be met by Menenius with a very dragging speech in prose, of which we impatiently await the issue, so that when the renegade Roman flashes out in verse, the dramatic effect, almost entirely due to the change of speed, is tremendous. After that, the speakers revert to prose, thus slowing down the scene, for a very moving passage in verse comes after, just as a like one goes before.
+
+BENTUAS. I fancy you could work out as in Hamlet?
+
+Heitusapa. The last scene is clearly enough constructed on this model, and is in three parts. The first is the rapid précis of events Hamlet retails to Horatio, and is in admirable, spanking narrative verse. It is now necessary to put on the brake so as to make effective the overwhelming rush of the final moments of the play, and so the intermediate passage with Osrick is in prose. And if the structure here is not very subtle — why should it be - the grave-digger scene may please you better. It comes immediately after the violent Laertes scene; and its prose forms an admirable breathing space before Hamlet sweeps us off into the almost unbearable atmosphere of his emotional outburst when he jumps into Ophelia’s grave.
+
+BENTUAS. I, too, have scented this beast, and to show you how much I’m with you, will take you back to the porter scene in Macbeth, which you mentioned just now. That stupendous previous scene — especially after the 'Macbeth does murder sleep’ passage, should go very hastily, if still more so after the temporary stillness produced by the first knocking. After that we must be made to wait to hear our hearts beat with the suspense, fretting at the slow prose of the porter and Macduff while the horrible discovery is being made in the adjacent room. At Macbeth’s re-entry events once more begin to Stir. The presage of Lennox’s verse speech sets our emotions on the shift, and on we go, in faster and faster measure, through ‘‘O horror! horror! horror!’’ to the panicstricken gallop of
+
+Ring the alarum bell—Murder and treason!
+Banquo and Donalbain ! Malcolm ! awake!
+Shake off this downy sléep, dedth’s counterfeit,
+And look on death itself.
+
+HELTUBADA. We’ve killed our prey; don’t let us maul it.
+
+BENTUAS. I think, indeed, my dear Heltubada, we must stop to take breath and see, after all, what quarry we’re after. I’ve become so interested in the forest, I’ve almost forgotten the hunting. You suggest we’ve killed: I think, rather, we’ve shot a jay when out pheasant shooting.
+
+HELTUBADA. Let’s go back, then, to where we began the argument. You said, originally, that though not against an artificial medium, you didn’t think blank verse, at least as written at the present day, quite suitable for the drama.
+
+BENTUAS. We needn’t retrace our steps all the way; only to where you interrupted me, long ago, and begged me to be less sidereal.
+
+HELTUBADA. I apologise.
+
+BENTUAS. You needn’t, and I won’t try your patience. But I was about to say at that moment that the progress of blank verse was not so much from Marlowe’s to Shakespeare’s, but rather to a suitable form of prose, which, like blank verse would be ‘prose mésurée,’ but measured in a different way. For if verse strays from the easily uttered, readily apprehended stress-grouping of the primitive forms, as it is almost bound to do when it abandons rhetoric, it either moves in the direction of the ‘‘ other harmony,’’ or becomes something, which, however it may be for the chamber, is inadequate to the stage. 
+
+HELTUBADA. You mean that what ultimately killed dramatic verse was its growing realism, just as its too great resemblance to life eventually stifled the Elizabethan play?
+
+BENTUAS. Toa large extent. But also because that Sas rate in the hands of Shakespeare, it became too, subtle. What d’you make of this from The Tempest? 
+
+There be some sports are painful, and their labour/ delight in them sets off: some kinds of baseness/ are nobly undergone; and most poor matters/ point to rich ends. This my mean task/ would be as heavy to me, as odious; but/ the mistress which I serve quickens what’s dead, / and makes my labours pleasures. (III. 1) 
+
+To me only the last seven syllables have anything of the blank verse rhythm, though you will see that the whole passage fits into a sort of breath-unit system. 
+
+HELTUBADA. It has certainly lost the original swing: and what has become of your three stresses?
+
+BENTUAS. They are still occasionally useful in overcoming difficulties, such as Miranda’s line in that very passage
+
+nor have I seen : 
+More that I may call mén, than thou, good friend : 
+
+and where Shakespeare still wished to be rhetorical, he had recourse to the Marlovian verse, 
+
+And like the baseless fabric of this vision, 
+The cloud-capped towers, the gorgeous palaces... ; 
+
+But on the whole Shakespeare now used an instrument too fine for the stage, and it often comes to me to wonder if we don’t here brush against one of the several reasons that made him quit the theatre: It no longer pleased him to write the cruder verse that best befitted plays: | wanted more exquisite effects, which he knew would became ineffective, even if not bungled by the poorer performers. The divine strains of The Phœnix and Turtle caused the voices of the actors to seem the very ashes in which beauty, truth and rarity lay enclosed ; and, himself Prospero, having once ‘required heavenly music,’ there was no other way but to ‘ abjure rough magic.’ The form he had made would no longer hold the things he felt and saw, and, like Rimbaud, he found paroles païennes unendurable.
+
+HELTUBADA. You would say, then, that he ruined blank verse, as old bottles are broken when rich new wine is poured into them?
+
+BENTUAS. Rather that it was bound to outgrow itself, for the condition of life is change.
+
+Hettupapa. 'Outgrow' seems grandiose gilding for 'decay.’
+
+BENTUAS. But not so fantastic if you consider it, as I would like to do, together with the growth of stage prose.
+
+HELTUBADA. I heartily wish you would.
+
+BENTUAS. My man-monster hath drowned his tongue in
+sack : for my part, the sea cannot drown me: I swam, ere I could recover the shore, five and thirty leagues, off and on. By this light, thou shalt be my lieutenant, monster, or my standard. 
+
+That prose, as you know, is in the scene of The Tempest next after that I quoted just now. But, if the ring of the last passage is still in your ears, d’you see a grave difference ? 
+
+HELTUBADA. I admit the stress-spacing and the breath-unit, to use your terms, seem much the same. 
+
+BENTUAS. Now I’ll ask you to run your eye down this piece of Tourneur : O might that fire revive the ashes of This Phoenix! yet the wonder would not be So great as he was good, and wondered at For that. His life’s example was so true A practique of religion’s theory That her divinity seemed rather the Description than th’ instruction of his life. (The Atheist’s Tragedy, III. 1.) 
+
+HELTUBADA, Queer verse indeed !
+
+BENTUAS. But what admirable stage diction ! musical, fluent actor-proof, compelling the sense. And now I'll give you some Jonson :—
+
+Nor shall you need to libel ’gainst the prelates, / and shorten so your ears against the hearing/ of the next wire-drawn grace. Nor of necessity/ rail against plays, to please the alderman/ whose daily custard you devour: nor lie/ with zealous rage till you are hoarse. Not one/ of these so singular arts,
+
+That is from The Alchemist (III. 2).
+
+By my integrity, I’ll send you over to the Bankside; I’1l commit you to the master of the Garden, if I hear but a syllable more. Must my house or my roof be polluted with the scent of bears and bulls, when it is perfumed for great ladies? Is this according to the instrument, when I married you? that 1 would be princess, and reign in mine own house; and you would be my subject, and obey me?
+
+That is from The Silent Woman (III. 1). Well?
+
+HELTUBADA. I must confess that if I didn’t know the former play was in verse and the latter in prose, I should have felt inclined to hit on the second passage as being the one in verse, especially from the last phrase.
+
+BENTUAS. There is no a priori reason why Volpone and The Alchemist should be in verse, and The Silent Woman in prose; nor why Catiline should be in the first medium, and Cynthia’s Revels in the other. Jonson was not bothered by the requirements of subject, and notions of heightening: he was intent upon experimenting towards a form of prose that would be as effective and as rapid as blank verse without dropping into the swing Sometimes a little too noticeable in Volpone.
+
+HELTUBADA. You insist that stage verse is something difterent from stage prose ?
+
+BENTUAS. As a full orchestra, with drums and trombones 18 from a string quartet, Listen to Jonson off the stage’
+
+On sides of the shell did swim six huge see monsters, varied in their shapes and dispositions bearing on their backs the twelve torch-bearers, were planted there in several graces; so as the backs of some were seen; some in purfle, or side; others in face; and all having their lights burning out of whelks, or murex-shells.
+
+(The Masque of Blackness.)
+
+HELTUBADA. Out of whelks, or murex-shells. That’s very lovely.
+
+BENTUAS. More beautiful than the verse of the masque itself, but impossible to say loud.
+
+HELTUBADA. But where, exactly, does the distinction between your two proses lie?
+
+BENTUAS. Keep the rhythm of the masque passage in your ears, and try this from The Silent Woman (IV. 1). It is, of course, from Ovid’s third book of The Art of Love’ :—
+
+If she be short, let her sit much, lest when she stands she be thought to sit. If she have an ill foot, let her wear her gown the longer and her shoe the thinner. If a fat hand and scald nails, let her carve the less and act in gloves. 
+
+Where “‘ exactly ’’ the distinction lies it would be hard to say. Nevertheless, the play passage seems just to fringe verse, and I’ve given you the reference so as to quote Congreve’s version :— 
+
+The nymph too short, her seat should seldom quit, 
+Lest, when she stands, she may be thought to sit;
+
+HELTUBADA. You would upset the Aristotle-Dryden opinion then, and declare that plays should be written in that kind of prose which is nearest verse?
+
+BENTUAS. The whole subject needs to be probed, and I wish Saintsbury would embark upon it to give us a companion volume to his fascinating study of prose rhythms, in which he definitely avoided the stage. But we were discussing the decay of blank verse, and as we’re due to dine at Odeienherria, I must plunge. My idea is, that as the seventeenth century wore on into its second and third decades, verse lost its Marlovian structure and became indistinguishable from stage prose. It was none the less good stage verse, adapted even to the marvellous poetic flights of The Tempest and The Winter’s Tale, althouch the structure of the prose in those plays hardly differs from it: ‘‘ A malady most incident to maids ” is of the same kind as ‘‘ A picker-up of inconsidered trifles,” Anyone can find longer and more convincing extracts, but I would rather leave Shakespeare alone for the moment, to speak of lesser artists—Massinger, Middleton, Shirley, but not Fletcher, for whom I have an unreasoning aversion.
+
+HELTUBADA. You may omit Massinger: he’s the most finished craftsman of his age, and A New Way to Pay Old Debts is machine-made to an extent William Archer ought to envy. His verse has long been recognised as being admirable resilient prose; but it’s all so slick that it’s clever without character. Massinger added nothing, he developed nothing, he spoiled nothing.
+
+BENTUAS. I'll give you Middleton, then. You'll agree that in some plays, as in A Game at Chess, he wrote with great prosodic beauty; but for the more part he used blank verse as a household drudge. But if this medium became worse and worse as a poetic form, it did not for that reason turn out a less happy dramatic vehicle. What happened was that 1t became more and more the rule for the playwrights simply to make sentences in vaguely blank verse groupings and string them loosely together. Here, for instance,
+
+Errors? nay, the city cannot hold you, wife, (11 syll.)
+But you must needs fetch words from Westminster‘ (10) 
+I ha’ done, i’faith, (5)
+Has no attorney’s clerk been here a’late, (10)
+And changed his half-crown piece his mother sent him (12)
+Or rather cozened you with a gilded twopence, (12) 
+To bring the word in fashion for her faults (10)
+Or racks in duty and obedience ? (10) 
+Term 'em even so, sweet wife, (7)
+As there’s no woman made without a flaw. (10)
+(A Chaste Maid in Cheapside, 1., I)
+
+Anyone familiar with Brome or D’Avenant can better, or worsen, that example.
+
+HELTUBADA. Jasper Mayne is mighter still. How’s this from A City Match?
+
+Gentlemen, Shall we dine at the ordinary ? 
+I will enter you among the wits.
+
+BENTUAS. Monstrous hot ice indeed. But let me show you some prose of Middleton’s, which I’ve copied out from The Mayor of Queensborough (III., 3), in this way :—
+
+The deadly sins will scorn to rise by thee, (10)
+If they have any breeding, as commonly (11)
+They’re well brought up: ’tis not for every scab (10) 
+To be acquainted with ’em: but leaving the scab, (12) 
+To you, good neighbours, now I bend my speech. (10) 
+First, to say more than a man can say . . .(9)
+
+HELTUBADA. Enough! enough! There’s not much difference, though difference there is.
+
+BENTUAS. So the process went on of welding together verse and prose to produce a third medium, stage speech. Progressively we see stage diction losing the rhythms of blank verse, yet still tending to employ the three emphasis phrase, such as Cokain’s 
+
+Nowadays, young ladies for a while 
+Do mantle their affections in dislike. (The Obstinate Lady.) 
+
+Or the four, as with D’Avenant’s 
+
+They do frisk and dance 
+In narrow parlours to a single fiddle 
+That squeaks forth tunes like a departing Pg. (The Witts II.) 
+
+But stage language became very ‘ joyless and pallid,’ even when not villainously bad, and one wonders whether the playwrights didn’t sometimes cast a longing look back to the rhymed quatrains of Daniel’s Cleopatra or the formal graces of Selimus.
+
+HELTUBADA, Which they probably read about as much as  we study the plays of Robertson, The fact is, it all became too easy, because the form which made for realistic flow was bound also to make for flabbiness of matter, a result noted by Dryden’s perspicacious mind and which spurred him to his reforms. As often happens, the less the dramatists had to say, the more verbose they became, as we see from Shadwell, that playwright in spate. Economy of material, of course,must not be mistaken for poverty of thought, nor must the second for the first. However, it’s fair co say that Meredith spoke foolishly when he praised Congreve for being ‘ at once concise and voluble,’’ since it is only when we have the wherewithal to be extravagant that we can afford to be restrained and pithy.
+
+BENTUAS. You have illustrated what is precisely my objection on the later form of blank verse ; it was not artificial enough, and it’s interesting to note that the first attempts to pull this measured prose together were made in the direction of tagging it with rhyme. Jonson set the example tentatively in The Sad Shepherd, though the ‘‘last draught of his quill,” Mortimer, was in the very best tradition of blank verse. It’s noticeable, too, that Otway, beginning with rhymed couplets, went on to blanks that are nearly always end-stopped and nearly always four stressed. The lesson of the decadence had been too palpable to be ignored, and Otway is before Shakespeare because he’s after Dryden, But blank verse was doomed; I know nothing satisfactory after certain short passages of Rowe, for though he’s more flatulent even than Addison, he’s much more supple.
+
+HELTUBADA. Swinburne’s Duke of Gandia acts admirably for he there abandoned his gorgeous tapestry, and I should have thought the verse portions of Herbert Trench’s Napoleon would have satisfied your conditions.
+
+Aide Breet Hose examples, and there is, of course; | leat a te I still look for salvation to a new kind
+
+j there is nothing our dramatists seem to cei so much as diction, Masefield’s Pompey the eat, in short, sharp prose sentences, is at least an interesting experiment: but being too much concerned with people’s ideals, and not enough with their desires, he’s ° cast all the scenes in a kind of Maeterlinckian melancholic which makes them all go at exactly the same pace, So that the experiment doesn’t carry us very far. Of our successful playwrights only Shaw appears to regard stage speech as something with a nature of its own, but his theatre prose overmuch resembles that of his prefaces. He rarely moves, for he’s too urgent to convince, and the instruments used for these purposes are, as we’ve seen, as wide apart as a hammer from a handsaw. Like all those who don’t carefully forge out an especial weapon, he’s sometimes bogged in verse, and Morrell in Candida roars you as loud as any poet-lion :—
+
+Then help to kindle it in them, in me,
+Not to extinguish it. In the future,
+When you are as happy as I am,
+I will be your true brother in the faith.
+
+HELTUBADA. It strikes as rhetoric, yet works not persuasion,’’ as Bussy D’Ambois has it. But still, it’s easy enough to find in anybody a collection of ten or so syllables that you can call blank verse.
+
+BENTUAS. I only take the obvious, what seems to me obvious, that is. For if you look for iambics you’ll select different lines from those that I discover. Saintsbury, for instance, seeking iambics, finds in a passage of De Quincey,
+
+Her kingdom is not large or else no flesh
+Could live, 
+
+which I admit I missed. On the other hand he didn’t notice, in the same passage,
+
+But narrow | is the nation | that she rules, 
+
+which he scans as I show,! and which thus seems to me the perfect type of rhetorical blank. But it is almost inevitable that if we use the common forms of speech we shall drop into verse. Etherege, who rivals Congreve for fineness of ear, was often guilty, if guilt it is, and Lady Woodville cried out :—
+
+Oh no! I hope you do not know him? He is 
+The prince of all the devils in the town, 
+Delights in nothing but in rapes and riots. (The Man of Mode, II. 3). 
+
+Congreve himself erred, though not, I think, in The Way of the World, and could write, 
+
+Sure I was born To be controlled by those I should command:
+My very slaves will shortly give me rules 
+How I shall govern them. (The Double Dealer, V. 13). 
+
+For there is nothing more true than ‘“‘ In English, indignation makes blank verses ”?. indeed, not only wrath, but any emotion does so. The translator of R.U.R. continually fished up such lines as, Oh for another hundred years of time, while in the emotional scene of Outward Bound the lines came tumbling out so packed that I couldn’t scribble them down fast enough on the edge of my programme. 
+
+HELTUBADA. And were they good ones? 
+
+BENTUAS. 1. I gave my soul for Anne, and she gave hers... 
+2, Until they beat us down, so bruised, so hurt... 
+3. They smeared our love, smeared with their dirty lies... 
+
+So they dribbled out, all end-stopped. But though Sutton Vane stumbled, I think he unwittingly took a right direction : we should get back to our natural breathunit of about ten syllables, but must avoid the too easy snare of verse. ilde, who whatever his defects, had at least thought about phrasing, sometimes hit this mea” Nothing will induce me to take his hand. I think his coming down here disgraceful,”’ Jack says in The Importance of Being Earnest, and Algernon remarks, “ One should always eat muffins quite calmly.” But Wilde's compass was very restricted; he failed to establish any kind of beat, and his paragraphing is flabby, as though deliberately slowing down, he’d lost his sense of drive. 
+
+HELTUBADA, But if you think blank verse has so many good points, is indeed, hardly to be avoided, what’s your objection to our modern verse playwrights ?
+
+BENTUAS. They’re too slow. They’ve forgotten that stage speech must be rapid, and a play overbrimming with vinous juice. Economy of words and ideas, which no great playwright, even Racine, has practised except at carefully prepared moments, is a vicious error, which produces, not . feasts, but the meat tabloids of Ibsen; while the etiolation of Yeats is as bad as the stodginess of Drinkwater. Bottomley, who has body, is too even.
+
+HELTUBADA. I see your point. You want an instrument that shall be artificial enough for art; a prose as far removed from ordinary speech as your type blank verse, though not, of course, the ‘rhythmed prose’ that leads to the Sargasso sea of Paul Claudel. You want a medium that can be at will swift, rhetorical, or quiet. 
+
+BENTUAS. I want, above all, a medium that shall be actor-proof, actor easy, and clear, and which, though artificially made, shall sound on the stage as naturally rapid as the flowing of a stream.
+
+HELTUBADA. Whom d’you consider has most nearly approached perfect stage prose; Jonson?
+
+BENTUAS. Sometimes; though the prose of All Fools is perhaps better of that sort, and Marston’s Dutch Courtezan is by no means to be despised. Jonson took Chapman’s style and hardened it, so that he’s occasionally a little too gaunt, too apt to close heavily on a succession of loaded iambs. He’s perfect for his own purposes, but not for that of others. I certainly want a prose in which we feel “the skull beneath the skin,’ but I want the skin to be of an exquisite texture. Such prose is rare — Shakespeare, Congreve, Landor, though the last is too long-drawn for the stage. Shakespeare sometimes wrote first-rate Jonsonese, as in Timon’s speech (IV., 3), which begins “A beastly ambition,’ but in Hamlet, which was, I think, his great experiment in stage prose, he achieved a subtler, surer melody ;—
+
+What a piece of work is x man! how noble in reason! how infinite in faculty ! in form and moving how express and admirable! in action how like an angel! in apprehension how like a god! the beauty of the world! the paragon of animals! 
+
+But this passage which I shall now read you, and which I can never hear without trembling with pleasure, is too fine except in the mouth of a superb actress :-— 
+
+I shall never bear that—good Mirabell, don’t let us be familiar or fond, nor kiss before folks, like my Lady Fadler and Sir Francis: nor go to Hyde Park together the first Sunday in a new chariot, to provoke eyes and whispers ; and then never to be seen there together again; as if we were proud of one another the first week, and asham’d of one another ever after. Let us never visit together, nor go to a play together, but let us be very strange and well-bred : let us be as strange as if we had been married a great while; and as well-bred as if we were not married at all. 
+
+HELTUBADA. That, too, in form and moving, how express and admirable. 
+
+BENTUAS. With those phrases echoing in our ears, let us to dinner, to chatter about the newest novel, the League of Nations, and the fascinating failings of our acquaintance: Much remains to say, and yet I have, perhaps, already spoken too long. My different theses, maybe, contradict one another, and much, no doubt, is to recant.
+
+HELTUBADA. Don’t let that trouble you, for speech is the readiest solvent of imposthumous thought. We're not like Charles Lamb’s Scotchman, always speaking on oath. For as Hylas remarked to Philonous during theif incomparable dialogue, ‘‘ Every false step 4 man make in discourse, is not to be insisted on.” 
+
+September, 1924.

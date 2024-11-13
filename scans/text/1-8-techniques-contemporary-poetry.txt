@@ -1,0 +1,569 @@
+Contemporary Techniques of Poetry
+
+THE STATE OF THE PARTIES
+
+We are now in the middle of one of those angrily disputed revisions of the Rules of Poetry which from time to time enliven literary history. No reconciliation seems in the least likely for a long time to come. The technical points of disagreement between the numerous rival factions, each of which will claim the true poetic succession for itself, are extremely varied, but may be classified under the following heads :— 
+
+Diction.—Particularly with regard to the definition of the word beauty, about which each faction makes its own violent claims; the legitimacy of, on the one hand, colloquialism, on the other, heroics. 
+
+Metre.—The amount of variation allowed on a conventional pattern, the direction of that variation, the legitimacy of evolving new patterns, the legitimacy of doing without patterns at all. 
+
+Rhyme.—Whether to be sanctioned at all in English poetry; its obligations, if so, to the sense of the poem; and the question of what may rhyme with what.
+
+Texture.—The relationship of vowels and consonants regarded as mere sounds; whether these sounds must always be melodious. 
+
+Structure.-—What conventional connections must be maintained between the individual ideas, or between the groups of ideas that make up a poem; whether the connections should be predetermined; whether any connection is desirable at all.
+
+The rival factions can be conveniently discussed by a rough analogy from contemporary politics. Literature is by a popular figment unconcerned with politics; but that the analogy is not altogether forced can be seen at once by comparing the general run of verse printed and favourably reviewed in the Morning Post, say, with that printed and praised in, say, the Westminster Gazette. If recently there has been Left Wing poetry politely received by two leading weeklies, one Conservative, the other Liberal, this anomaly has been due to the literary editors being politically divorced from their journals. The poets of the Left Wing cannot rely even in such cases on any strong support, and have practically no press of their own ; that 1s probably why they remain the Left Wing. Mr Harold Monro of the Poetry Bookshop has befriended them occasionally in his series of Monthly Chapbooks ; and the Criterion and the Calendar are hospitable, but most of the more extreme work that they do is first published, if at all, in America.
+
+In this analogy I do not identify my Left Wing with the Parliamentary Labour Party, whichis always trembling on the verge of Liberalism, and is only kept Socialist, it seems sometimes, by the fact that the Liberal Party still survives and has a considerable party chest. The political Left Wingers corresponding with the poetic Left Wing are the groups who do not believe at all strongly in Parliamentary methods, though they have a few members sitting, and who label themselves Communist, Syndicalist, Anarchist, Non-co-operative, and so on; they are Third rather than Second Internationalists, include American poets in my analogy. If I quote their work it will be with apology ; for the history of American poetry is not to be compared with our own. Walt Whitman’s free verse has become classically legitimised, and it is no sign of particular rebelliousness to prefer his example to that of Longfellow. Miss Amy Lowell’s polyphonics, for instance, are almost haughtily traditional : if she were an Englishwoman she would certainly be writing in strict metres. I must also exclude the Irish poets, Messrs Yeats, James Stephens, “ ae” Russell, Padraic Colum, Oliver Gogarty, whose work cannot be put in terms of British politics : their literary maternity is Synge, Douglas Hyde, Darley, Moore, Sir Samuel Ferguson, James Clarence Mangan, the Anglo-Irish ballad writers, the medieval and ancient Irish bards, French poetry; the English paternity has had an equal share with this maternity, but let us avoid the traditional absurdity of only reckoning a pedigree by the males. The Anglo-Welsh and Dialect Scottish schools must also be omitted ; the former, however, as might be expected, is Liberal, one might say almost Gladstonian-Liberal, and has affinity with the romantic-revivalist Ceiriog rather than with the academic bards; Scottish dialect poetry, though it includes the accomplished work of Violet Jacob, :5 bound to be Conservative, because English is the normal language of those who write it; the braw braes and the bricht burns and the prinking lassies have already a pleasantly archaistic ring about them.
+
+The Conservative first, in deference to his present predominance in Parliament: the alternative term Unionist ss also convenient to the analogy. He will deny that there is anything seriously wrong with the tradition of English verse that has its roots in Ovid, Vergil, Sophocles, and Homer, and whose poetic charter was drawn up by Aristotle. He will lay most stress on the more purely classical work of Jonson, Milton, Gray, Pope, Landor, the later Tennyson, Arnold, but will not deny a part in this tradition to former revolutionaries or liberals who, being securely dead, are unlikely to join the revolutionary or liberal parties of to-day : Shakespeare, the Romantic Revivalists, Swinburne, Browning, Rossetti. Of course, to legitimise the work is not necessarily to approve of the spirit in which it was written, and, therefore, the style of each of these poets is cut and dried as a classical model for younger poets to follow. Selected passages only; the “ roughnesses ”” explained away or boldly condemned, or weakly condoned as the licence of genius. Centenaries come round and bicentenaries and tercentenaries, and the celebrations are uniformly conducted by the Conservatives and the more barnacled Liberals, to the complete exclusion of the contemporary revolutionaries.
+
+The Conservatives are unanimous in believing in a God of Love who furthers human welfare, and who in a more particular sense confers material advantages on his spiritual and administrative representatives here on earth. While the social structure holds, there is Divine justice. Therefore, in poetry which represents this view, the Just, the Good, the Beautiful, though temporarily dimmed, must always have the last word : horror and pain must be overweighed by admiration and joy. Emotion (which is a dangerous quality in the ruling classes) must be under the strictest restraint. Squalor and filth must be kept out of sight. John Crowe Ransom is to the point here, writing as a Conservative who has lost confidence in his traditions :
+
+“When only moonbeams lit the dusk 
+The world was somewhat set to right, 
+For all the piteous twisted thin 
+Had lost the crooked marks of spite 
+Which seared the eyeballs to behold 
+As man to man in broad daylight.
+But we forget so soon the shame, 
+Conceiving sweetness where we can, H
+eaven the citadel itself
+Illumined on the lunar plan,
+And I, the chief of sinners, I
+The middlemost Victorian.”
+
+But Mr Ransom is using “ mid-Victorian” in an emotional and not very accurate way ; though in the Gfties or ’sixties the comfortable classes controlled the Press and Parliament even more securely than they do now, there was always a hooligan and atheistic Left Wing which blasphemed the God of Love, and an intellectual Left-Centre which permitted itself occasionally to doubt.
+
+Before proceeding to a discussion of Liberalism and the Left Wing, I must make it clear that I am not airing any political grievances. I see no particular advantage in Conservative, Liberal, or Communist techniques on their own account. Great poetry — that is, poetry in which some people at any rate find breadth and intensity — will appear in each camp, but while political conflict persists will be unlikely to win even silent respect from the other camps. I am the historian merely; but having regard to the enormous dead-weight of prestige behind the Conservative view, and to the popular success of the Central Party, I shall possibly find myself making out the clearest case for the party which is least vocal, the Left Wing.
+
+This Left Wing is, of course, not a solid party, but a number of small groups loosely bound by a dislike of the Right and a scorn of the Centre; agreeing amiably to rebel, but not agreeing as to the ultimate direction of their rebelliousness. They include malcontents from the Centre and Right such as Messrs Herbert Palmer, Aldous Huxley, Robert Nichols, Frederick Branford, Miss Nancy Cunard, who have no great passion for revolution, and if the pinch came would defend no street barricades.
+
+Others who started as malcontents are now definitely committed to revolution, in which category Messrs T. S. Eliot, an American long resident in England, Osbert, and Sacheverell Sitwell, Miss Edith Sitwell, Mr Ford Madox Hueffer, the doyen of the party, Mr Siegfried Sassoon, Mr Edgell Rickword, Miss Iris Tree may be found; there are, besides, born revolutionaries like Isaac Rosenberg ; and nihilists of the school of Gertrude Stein, who is an American Jewess living in Paris. The alien element on the extreme Left is predominant ; the Morning Post and the British Fascists, please note.
+
+As for the Central or Liberal Party, though Liberalism is politically in a sad way, “ by schisms rent asunder, by heresies distressed,” and without the confidence of the electorate, it dominates contemporary poetry, whether the test of sales or of newspaper publicity be applied, and for that reason the adjective “ Georgian,” which originally qualified E, M.’s biennial anthology of predominantly Liberal verse, has been popularly accepted as fairly representing all that is most hopeful in the poetry of this age. Moreover, Mr J. C. Squire, who recently stood as a Liberal candidate for Chiswick (having sloughed off his earlier Socialism), is popularly acknowledged the leading modern literary critic. I write without prejudice.
+
+Liberalism demands verse of a sweet-flavoured, wellmannered, highly polished kind; free from heroics and rant on the one hand, and from roughness and violence of expression on the other. Although more progressive in claim than the Conservatives, this Georgianism is more odious to the extremer Left Wing than the work of modern Tennysons and Arnolds. Being fairly successful financially, it is also consistently misrepresented by the Right-Wing critics who gibe at the “Georgian Xylophone,” lament the “ passing of the Grand Style and the noble theme,” and even identify Georgianism with LeftWing anarchy. Within its self-imposed limits (and both conservatism and Communism have limits too), Georgianism has many virtues ; a mediocritas often aurea (though even the gold standard is called in question by poetical economists), and as much genius as is covered by the definition about taking pains. Nobody who has not tried will know how much perseverance goes to making a verse like this of Mr Geoffrey Dearmer’s :
+
+“ The River dawdled silver-clean,
+A lane of mirrored sky, 
+Through marsh and lawn of jewelled green,
+And restless fields of rye, 
+Through haze and heat and round the feet
+Of meadow-sweet July.”
+
+But the jealous tendency of both Left and Right is to attack the Centre where it is most vulnerable, the backbench group whose Liberalism is negative and vapid. Politically, it will be agreed that though the Left produces the greatest number of neurotics and rowdies, and though the Right has the largest proportion of solid dunces, one can count on the Centre for the greatest show of absolute sneffectives. ‘Their diet is neither roast beef and port nor crusts and tears, but, it is alleged, patent foods and lithia water. As in politics, so in poetics ; but this does not mean that Conservatism, Communism, and Liberalism can be identified respectively with Stupidity, Morbidity, and Vapidity.
+
+Here, then, is a rough statement of the parties, and poets are rare who do not acknowledge whips. Still one or two can be mentioned whose work is non-Parliamentary ; poets who have not had to cultivate poetic simplicity or strength, because simplicity is their birthright and strength ‘5 in their daily habit of life. In the elder generation, Mr Thomas Hardy; in the middle generation, Messrs W. H. Davies and Robert Frost (an American, but he has lived in England and first made his name here) ; in the younger generation, Frank Prewett, who, like Mr Frost, is a farmer. The strength of all these poets is apparently in the soil, and the soil is older than the Houses of Parliament.
+
+Mr De la Mare is difficult to classify : he began with a moderate Conservatism, but has since specialised in the poetry of Romantic Escape, which is rhythmically and imaginatively progressive, but conservative in diction : he is best described as an Independent Conservative, and has been honoured by the Conservative Party. Mr Ralph Hodgson has been similarly honoured, but he is not by , any means a poet of escape. He is a poet of pity, a | champion of the fatherless and distressed ; and his very idealism permits him still to remain loyally Conservative. Mr Lascelles Abercombie—who first won popular recognition in New Numbers, a poetry magazine of Liberal tendency, in company with Rupert Brooke and Messrs Gibson and Drinkwater—has given more thought to the fundamentals of poetic technique than any other living Englishman. He is an Independent, standing somewhere between the Centre and Left.
+
+Then there is Professor A. E. Housman. His Shropshire Lad was written thirty years ago, and has recently won grudging Conservative approval, like Tennyson’s Maud, which also was in its time Liberal in technique and Radical in the painfulness of its content. His Last Poems are chiefly interesting as a classicising of the technique and sentiments of 4 Shropshire Lad. He is another Independent Conservative, whose work will be text-book for the future: the proof of his Conservatism is that he has from time to time celebrated public occasions, the Queen’s Jubilee and the First Expeditionary Force’s glorious end, and that his work is rooted in the classics : the proofs of his independence are that his celebrations of public occasions have been unusual in conception and moving in expression, and that he is about the only English classical scholar with a great international reputation.
+
+There are no doubt other Independents of importance, but for the moment I cannot name them, and this essay does not claim to be an authoritative Who's Who of modern poetry.
+
+DICTION
+
+In terms of the political analogy the question of diction calls for discussion first. The Conservatives have a dualistic rule that all words and phrases can be classified as either poetical or non-poetical. They will admit when pressed that many words have become poetical through redemption by divine genius, but the age of miracles is always over for the Conservative (until next time). The Left Wing believes that all words and phrases are equally suitable for poetry, with the exception of those particularly recommended by the Conservatives: these should be given a rest, they say, for another two hundred years or so. The Liberal, believing that poetic freedom slowly broadens down from precedent to precedent without necessarily the intervention of genuis, makes an occasional bold dash into the colloquial, obscene, or prosaic, and, as occasionally, slips into “thee ” and “ thou ” and the third person singular, present indicative, in “eth”; but the greater part of his time he must make, as it were, an embarrassed progress down modern Wardour Street, refusing the antique shops on the Right and the cinema offices on the Left.
+
+Take the question of flowers. A poet of the Right, Mr Reginald Cripps, in a light verse describing a villa garden, ends with:
+
+“Indian cress, unknown to verse, 
+And yet a glory : nought of grace 
+Is wanting to this humble place.”
+
+“ And yet a glory”: for Conservative poetry has a garden register in which are written those blooms of which tradition allows mention. At one time the rose, the lily, the pink, or gilliflower alone were permitted : but the sixteenth century added many, including a few wild varieties ; the Romantic Revivalists a few dozen more. Victorian gardening has made the register even less select : passion-flower, the gaudy melon-flower, clematis, the lesser celandine, cottage dahlias even. But Indian cress? No, not listed. Mr Cripps therefore pleads with Apollo, “ surely the omission is accidental ? ”
+
+The Liberals would use Indian cress without apology, but self-consciously putting it in a bouquet of "safe" flowers like roses, buttercups, hollyhocks, pansies, avoiding chrysanthemum and delphinium because in doubt whether to give them a Latin or English plural. So,in Mr Humbert Wolfe’s Kensington Gardens he celebrates the roses, the tulips, the daffodils, and shows his Liberality by a single dashing reference to a sword-blue lupin.
+
+The Left Wing will use any flowers it cares to use, from antirrhinum to zinnia. Stinking hellebore and squinancy wort will be in vogue, with the
+
+“ Gold-freckled calceolarias, 
+Marigolds, cinerarias, 
+African marigolds, coarse frilled,”
+
+of which Miss Sitwell writes. Where the question of grammatic construction arises, Conservatives permit certain well-established poetic inversions and distortions which the stiffness of the old prosody encourages : “ Sweet Muse, smile us upon—Our fears unceasing still—The blossoms ope until—Chasm on rugged chasm, hill upon smiling bill.” ‘The Left makes particular play with grammatic colloquialisms, false concords, omission of particles, false catenation, aposiopesis, with little interlarded phrases of French, German, Italian, Chinese, Volapuk, and béche-de-mer. The Centre keeps to a grammar a little removed above the vulgar, a little lower than the heroic; admirable in theory, but in practice usually embarrassing both to writer and reader.
+
+Here are a few illustrations from the work of the different parties to illustrate the diction favoured by them; in each case one apple from the middle of the barrel and one from the top (where apples are larger and rosier).
+
+The Conservative first.—From the middle of the barrel I have chosen “ Queen Alexandra Day,” by R. C. Macfie, an LL.D. of Aberdeen. The universities and Scotland being the fortresses of the Conservative technique, and odes or ejaculations commemorative of royal events, declarations of war or peace, and similar public occasions being the chief exports of Conservatism, I flatter myself that the choice is a good one. The Left Wing, by the way, uses such public occasions for satiric purposes or complaint; the wise Liberal will not touch them. Perhaps if I had a copy of Poems on The Titanic Disaster (nearly two hundred of them, including one by Dr Macfie) or Poems on the Death of King Edward VII (over two hundred of these) I might get an even more suitable example. I do possess a volume of poems by eminent hands celebrating Britain’s righteous cause in the late Great War (one hundred pieces) and another of homage to Shakespeare at his Tercentenary (I have not dared to count the tributes), but these latter collections are not so representative as the first two of the “ poets’ corners ” in provincial newspapers. These corner poets form the real backbone of poetic Conservatism. Anyhow, Dr Macfie, thus : .
+
+“ Mother-Queen ! Mother-Queen ! 
+How hast thou heard, how hast thou seen 
+Thy people’s woe ?
+Are there not golden bars between
+The high and low?
+How hast thou heard, how hast thou seen, 
+How dost thou know ?
+
+What can our lowly sorrow mean
+To one so high ? Though thou listen and though thou lean
+Down from the sky, Thou canst not tell our sorrow and teen
+Nor hear us sigh.
+
+Throned afar
+On a golden star
+How canst thou guess
+What sore distress
+And cold and hunger and weeping are? 
+Were it not better to shut thine eyes 
+To things beneath thee and far away.
+
+Why should’st thou listen for distant sighs ? 
+'Tis thine to praise and ’tis theirs to pray. 
+Thou art a Queen by the Grace of God,
+And the height is high and the gulf is broad,”
+
+which reminds me that E. M. has recently published a translation of La Fontaine’s Fables. A happy event. La Fontaine was a Liberal and poetically of cabinet rank; E. M. is most efficient as his English private secretary. In the fable about the “Smell of the Lion’s Den” (La Fontaine, VII, 7), where Bear and Monkey both suffer death though taking opposite lines of criticism : 
+
+“ The Fox evaded a direct reply :
+He’d a bad cold and couldn’t smell, said he. 
+That was the line to take—he went scot-free.
+
+Reader when to Court you go 
+Avoid insipid flattery,
+As well as blunt sincerity, 
+And never answer Yes or No.”
+
+Blunt sincerity is the characteristic of the Left, as will be seen. 
+
+Meanwhile, from the top of the barrel, a quotation from Mr Charles Doughty’s “‘ Adam Cast Forth,” a poem in the grand style which has had little popular recognition but which I, for one, admire sincerely and intensely. The speaker is Adama (Eve) who has just returned to Adam after a long separation; she has been fostered by a milch-camel : 
+
+“I drank milk of her teats,
+Like to her young one. Times then o’er me passed
+Of Sun and Stars beyond all count ; the whiles
+I, driven and without stay, still wandered forth,
+Aye seeking thee ; in coast where herb was not ;
+For dewless is that dust ; save what salt blade
+Vast wasteness nourisheth ; whence my camel pastured
+Land, where my whispered words of heaviness, voice
+Of sighing, ’midst my tears ; to HEAVEN FATHER ;
+And my lamenting cries to thee, O Adam ;
+Loud lone rocks bellowing direful back again ;
+Made sound as some strange fearful blasphemies.”
+
+Then the Left Wing — From the middle of the barrel a “ Rhapsody in a Third Class Carriage,” by Mr Richard Aldington. The rapid transition from Mr Doughty to Mr Aldington may cause a slight giddiness, but this essay is hampered throughout by a page-limit. The Left Wing is at its leftest in protests against the dreariness, obscenity, and standardisation, which, it holds, the present structure of society necessarily implies. "This poem is unpunctuated and should, I think, be read in a dreary sing-song without pauses ;
+
+“ Deadness of English winter dreariness 
+Cold sky over provincial towns mist 
+Melancholy of undulating trams 
+Solitary jangling through muddy streets 
+Narrowness imperfection dullness
+Black extinguisher over English towns 
+Mediocre women in dull clothes
+Their nudity a disaster
+Heavy cunning men guts and passbooks 
+Relics of gentry men on bicycles
+Puffy small whores baby-carriages
+Shops newspapers bets cinemas allotments .
+
+These are your blood their begettors
+Made in the same bed as yours
+(Horrors of copulation
+Colossal promiscuity of flesh through centuries 
+Seed and cemeteries) .. .
+Painter there are beetroots in allotments 
+Embankments coal-yards villas grease 
+Interpret the music orchestra
+Trams trains cars hobnails factories
+Poet chant them to the pianola 
+To the metronome in faultless verse. . . .
+
+From the top of the same barrel a poem by Laura Gottschalk, a satire on traditional metaphysics ; and a first favourite with me.
+
+THE QUIDS
+
+“ The little quids, the million quids, 
+The everywhere, everything, always quids, 
+The atoms of the Monoton— 
+Each turned three essences where it stood 
+And ground a gristy dust from its neighbours’ edges 
+Until a powdery thoughtfall stormed in and out,
+The cerebration of a slippery quid enterprise. 
+Each quid stirred. 
+The united quids 
+Waved through a sinuous decision.
+
+The quids, that had never done anything before 
+But be, be, be, be, be,
+The quids resolved to predicate
+And dissipate in a little grammar.
+Oh, the Monoton didn’t care,
+For whatever they did—
+The Monoton’s contributing quids—
+The Monoton would always remain the same.
+
+A quid here and there gyrated in place-position, 
+While many essential quids turned inside-out 
+For the fun of it, 
+And a few refused to be anything but 
+Simple, unpredicated copulatives. 
+Little by little, this commotion of quids, 
+By threes, by tens, by casual millions, 
+Squirming within the state of things— 
+The metaphysical acrobats, 
+The naked, immaterial quids— 
+Turned inside on themselves 
+And came out all dressed, 
+Each similar quid of the inward same, 
+Each similar quid dressed in a different way— 
+The quids’ idea of a holiday.
+
+The quids could never tell what was happening. 
+But the Monoton felt itself differently the same 
+In its different parts.
+The silly quids upon their rambling exercise 
+Never knew, could never tell
+What their pleasure was about,
+What their carnival was like,
+Being in, being in, being always in
+Where they never could get out
+Of the everywhere, everything, always in,
+To derive themselves from the Monoton.
+
+But I know, with a quid inside of me. 
+But I know what a quid’s disguise is like. 
+Being one myself,
+The gymnastic device
+That a quid puts on for exercise.
+And so should the trees, 
+And so should the worms, 
+And so should you,
+And all the other predicates, 
+And all the other accessories 
+Of the quids’ masquerade.”
+
+The Liberals — Their most usual lines are ruralities, domesticities, zoology, the less lurid aspects of love, sleep, ships, ale, and old-fashioned industries of the forge, the cider-press, the wheelwright’s shop. Here, from the middle of the barrel, is Mr William Kerr’s “‘ Counting Sheep,” beginning :
+
+“ Half-awake I walked 
+A dimly-seen sweet hawthorn lane 
+Until sleep came ; 
+I lingered at a gate and talked 
+A little with a lonely lamb. 
+He told me of the great still night, 
+Of calm starlight, 
+And of the lady moon, who’d stoop 
+For a kiss sometimes : 
+Of grass as soft as sleep, of rhymes 
+The tired flowers sang ; 
+The ageless April tales 
+Of how, when sheep grew old, 
+As their faith told, 
+They went without a pang 
+To far green fields where fall 
+Perpetual streams that call 
+To deathless nightingales.”
+
+From the top of the barrel four stanzas from Mr Edmund Blunden’s “ Eclogue”’ :
+
+“ So talk ran on and turning like a lane
+Discovered meetings loved and left behind,
+And pleasure common once came peeping plain, 
+A sunshine through the late mists of the mind,
+Leading these two to warm nigh unto song 
+Upon the river where they dwelt so long.
+
+The ancient river flowing on among
+Sweet hop-grounds and their aisles of tasselled bines 
+Old crooked orchards, fruit-plats straight and young— 
+How gently to the sea his wave declines !
+Vexed into whirlpools where the sluices roar,
+But in a field’s length easy as before.
+
+There the vole sunned him by the pollard’s heel, 
+The pollard scored with tow-rope’s telling groove ; 
+Far down the flood the singing bells would peal, 
+The bells would peal, the silver swans would move 
+Between the watermosses’ warm green beds,
+Where harmless fish could hide their simple heads.”
+
+Now one thing is plain, that when Liberals get really passionately excited or pleased or angered by any poetic thought their Liberalism vanishes. Even in the passage I have just quoted from Mr Blunden there is a tendency to revert to Conservatism, to “ warm nigh unto song” in the traditionalsense. Mr Edward Shanks, in his very fine “Woman’s Song,” similarly uses “thou” and “ thee” and “thine” in preference to “you ” and “you” and “yours” ; the emotion is too keen for the conversational tone. Politically the analogy holds good. When stones and brickbats are thrown and truncheons drawn, the Liberal usually runs to the assistance or the protection of the truncheons ; only occasionally he turns up his coat collar to hide a starched shirt and flings brickbats with the leaders of the mob. Obviously he can’t stay where he is between the conflicting parties.
+
+Extreme anarchy is represented by Miss Gertrude Stein, author of Tender Buttons, Three Lives, Geography and Plays. ‘The following is the poetic geography of Americans as she sees them: It has occasional “cadence,” and uses rthythmic repetition as its chief ornament. I have selected one of the least complex passages. I must confess that I have great respect for this work; it is nonsense, but only according to a narrow classification of sense. To disregard it is not altogether a sign of mental strength and activity :
+
+“A legal pencil, a really legal pencil, is incredible, it fastens the whole strong iron wire calendar.
+“ An inherent investigation, does that mean murder or does it only mean a railroad track with plenty of cinders ?
+“ Words that cumber nothing and call exceptionally tall people from very far away are those that have the same center as those used by them frequently.
+A soap, a whole soap, any piece of a whole soap, more whole soap and not mistily, all this is no outrage and no blessing. A precious thing is an oily thing. In that there is no sugar and silence.
+“The thread, the thread, the thread is the language of yesterday, it is the resolution of to-day, it is no pain.
+“Pin in and pin in and point clear and point where. Breakfast, breakfast is the arrangement that beggars corn, that shows the habit of fishes, that powders aches and stumblings, and any useful thing. The way to say it, is to say it.”
+
+And certainly Miss Stein says it and says it sincerely.
+
+METRE
+
+It will be found interesting to compare the treatment of metre by the different poetic factions with the attitude of the various political factions to the community. Metre considered as a set pattern approved by convention will stand for the claims of society as at present organised : the variations on metre will stand for the claims of the individual. Conservatism stands for a jealous maintenance of metre in its strictest Victorian usage, though there will be a Die-hard Right which will deny that even the present structure of metre is adequate and will wish to revert to the eighteenth century Augustan style or even a primitive classicism of hexameters and quantitative scansion.
+
+The Left Wing — Some members of the Left, perhaps the greater number of them, do admit their share for better or worse in the community, but their criticism of existing abuses in administration and their claims for greater personal liberty threaten to swamp the claims of the community altogether.
+
+Others of the Left, by rejecting customary forms and inventing rather foggy new patterns of their own which they call “ cadences,” are politically of the type branded by their enemies as vague idealists or Utopians. Messrs Aldington and Flint are of this party. Mr Flint has written, ‘“‘ Metre is used by most ‘ modern’ poets because it provides them with a framework of rhythm on which to hang their words. . .. A certain amount of craftsmanship only is needed to fill up a metre; but only a true artist can make a rhythm that will please our ears for its own sake.” Extremes of Left and Right frequently meet, as will have been noticed in the clipping of grammar, the use of unusual words, and as will again be noticed in the rejection of rhyme. To the Left of these Utopians again are the Anarchists, who use no pattern at all, nor even trouble to keep a cadence going. In their extremest moods, their poetry is a broken series of sounds less regular than the noises made by the wind, mice, traffic, or the hot-water cistern. Miss Stein’s “ A Sweet Tail” ends :
+
+“It is so thick and thin and thin, it is thick. It is thick, thin 
+A spoon, thick ahead and matches, matches wear sacks,
+Stew, stew, than.”
+
+As flowers were a good test of rival theories of diction, so blank verse as used by the different parties provides interesting comparisons in the use of metre.
+
+With the Conservative the prosody is always that of the five iambic feet and the cesura, that can only have three, I think, legitimate places. Variations are only permitted in the case of awkwardly scanning proper names, or occasional moments of passion or dramatic pause, or heavy humour. The extra syllable at the end is forbidden by many, by others permitted only as an occasional licence to register emotion or vary monotony. Its frequent use is regarded as a decadence. The Liberal seldom uses the form, but when he does, justifies his greater variation, occasional trochees, dactyls, or anapests instead of iambs, and frequent feminine endings, by Shakespeare’s later tragedies.
+
+The Left Wing may do almost anything to blank verse, and does. ‘The way to do it, is to do it. Here is a passage from Isaac Rosenberg’s Moses, a poetic play of importance :
+
+“ Pharaoh will speak, and I’ll seize that word to act, 
+Should the word be a foe’s, I can use it well
+As a poison to soak into Egypt’s bowels,
+A wraith from Old Nile will cry
+‘For his mercy they break his back,’
+And I shall have a great following for this
+The rude touched heart of the mauled sweaty horde,
+Their rough tongues fawn at my hands, their red streaked eyes 
+Glitter with sacrifice. Well! Pharaoh bids me act,
+Hah! I’m all abristle. Lord! his eyes would go wide
+If he knew the road my rampant dreams would race;
+I am too much awake now—restless, so restless.”
+
+And here one from Mr Sacheverell Sitwell’s Actor Rehearsing :
+
+“ A bed, a chair, a table, and a cupboard 
+Stand in this bare room and rattle at my tread. 
+Save for these and a mirror is my room quite bare ; 
+It is empty like a honeycomb that holds no honey, 
+For the sun never comes to load my cell with light. 
+The paper that strips itself from off my walls 
+Is canvas dropped away and rotting from its scaffolding :
+
+My moonlight tempered with black smoke—
+The magnesium lights that groan before each flare-
+It is too dark for reflections to play upon the walls. 
+So I have no gilded lattices against my bruised plaster,
+My window-panes, like broken mirrors, 
+Showing me no starlight, that wood of golden trees—
+I’m left with nothing, with bare boards and rain-soaked ceiling. . . .”
+
+Varied beyond this point, blank verse is no longer blank verse, but, I suppose, “cadence.” One of the characteristics of the Left is its insistence that patterns can not only be varied almost to disappearing point but changed and broken off jaggedly wherever necessary
+
+So Mr Eliot in The Waste Land:
+
+“While I was fishing in the dull canal
+On a winter evening round behind the gas-house, 
+Musing upon the king my brother’s wreck ,
+And on the king my father’s death before him,
+White bodies naked on the low damp ground,
+And bones cast in a little low dry garret,
+Rattled by the rat’s foot only year to year.
+But at my back from time to time I hear
+The sounds of horns and motors, which shall bring 
+Sweeney to Mrs Porter in the spring.
+O the moon shone bright on Mrs Porter
+And on her daughter,
+They wash their feet in soda water,
+Et oh! ces voix d’enfants, chantant dans la cupole !
+
+Twit-twit-twit, 
+Jug-jug-jug-jug-jug-jug; 
+So rudely forc’d 
+Tereu.”
+
+The claim of the Left is that the basis of poetic rhythm being music, the two arts should be kept abreast ; that Conservative poetry corresponds with a system of music now completely antiquated ; that all attempts to make English prosody conform with classical prosody (even allowing accent to take the place of quantity) are against nature.
+
+The Conservative view is best given in quotation from the writings of a critic who was not only a great scholar in his day, and a Scot, but actually a crowned head : from King James VI’s Reulis and Cautelis to be Observit and Eschewtt : 
+
+“ First, ye maun understand that all syllabis are devydit in three kindes: That is, some schort, some lang, and some indifferent. Be indifferent I meane they quhilk are ather lang or schort, according as ye place thame.
+
+“ The forme of placeing syllabis in verse is this : That your first syllabe in the lyne be schort, the second lang, the third schort, the fourt lang, the fyft schort, the sixt lang, and sa furth to the end of the lyne. Alwayis tak heid that the nomber of your fete in every lyne be evin and nocht odde. . . . Bot gif ye wald ask me the reulis quhairby to knaw everie ane of thir thre foirsaidis kyndes of syllabis, | answer, your ear maun be the onely judge and discerner thereof.”
+
+The Left objects on principle to this rigid dualism of “‘ather lang or schort,” and asks for poetry a rhythmic freedom as great as the modern musician’s.
+
+The Liberals whose genius is practical and administrative will in this as in all other conflicts stand between the combatants with the customary appeal to common sense: “Why quarrel? Let us arbitrate. The English genius lies in compromise. Let us gradually introduce this new revolutionary wine into the Conservative bottles ; but very gradually, very gradually ; indeed, drop by drop, so that by the time the bottles are filled the wine will have become far less lively.”
+
+TEXTURE
+
+The Conservatives pay a good deal of attention to texture. The aim is euphony and, within the strict forms favoured, variety. The term “ texture” covers the relations of a poem’s vowels and consonants, other than rhymes, considered as mere sound, and supplementing the rhythm and images. It will in a Conservative sense include the variation of internal vowel-sounds to give an effect of richness ; the use, perhaps, of liquid consonants and labials and open vowels to give smoothness, of aspirate and dentals to give force, of gutturals to give strength; the careful use of sibilants, which are to texture what salt is to food. It will include the use of alliteration, not with the barbarous recurrence of Piers Plowman but decorously to intensify any required mood or quality: alliteration in the hands of the craftsmen will be concealed or chiasmic unless the effect intended is heroic. It will include the variation of word-endings, with particular watch on the present participle and adjectives formed in terminal y: care for the convenience of the reader lest words ending in a consonant be too frequently followed by other words beginning with the same or a closely related consonant (as “ break ground,” “ stoop below ” ; “ maid’s sorrow,” “ great toe”), where a slight delay in the line’s even flow is each time occasioned by the guttural or palatal change of gear. If these technical considerations interest the more learned and accomplished of the Conservatives, they are of even greater interest to the Liberals, one of whose main virtues is, as I have said, their practical administrative ability. As a party they probably give more conscious attention to the details of technique than the Conservatives, who are usually content wherever a difficulty appears, to ride off on the privilege of a distortion or inversion.
+
+The Left Wing either eschews all thought of texture as being another of these heavy chains clamped on the naked limbs of poetry, or uses its knowledge of the art to its own ends—sometimes in the orthodox manner, but oftener as enemies of the Church practise black magic, by a travesty of gospel and psalm and the Lord’s Prayer said backwards. By judicious manipulation of vowels and consonants, a line can be made to limp, to crawl, to scream, to bellow, to make other ugly or sickly noises.
+
+In the second line of the following from The Waste Land Mr Eliot makes a realistic snuffle :
+
+“ Madam Sosostris, famous clairvoyante, 
+Had a bad cold, nevertheless : 
+Was known to be the wisest woman in Europe,”
+
+and he even leaves an interval in the blank verse line for the nose to be blown.
+
+Mr Siegfried Sassoon in Ancient History (I quote the first version of the piece) writes :
+
+“he thought of Abel, soft and fair, 
+A lover with disaster in his face, 
+And scarlet berries twisted in his hair,”
+
+where the sense of Abel’s weakness is conveyed by the similar terminations of “lover” and “ disaster” and by the succession of short vowels in the last line. The contrast is with
+
+“He was the grandest of them all, was Cain ! 
+A lion laired in the hills whom none might tire, 
+Swift as a stag, a stallion of the plain, 
+Hungry and fierce with deeds of huge desire,”
+
+Mr D. H. Lawrence, in his description of the bat circling in daylight round his room and refusing to be driven out of the window, writes :
+
+"Go! but he will not... 
+Round and round and round 
+In an impure haste, 
+Fumbling, a beast in air, 
+And stumbling, lunging, and touching the walls, the bell-wires,
+About my room.”
+
+These four present participles in short u not only suggest the bat’s clumsiness in failing to find a way out, but the sense of his own awkwardness and giddiness as he pursues 1t.
+
+An American, Mr Vachel Lindsay, whose poems are primarily written for recitation, is, perhaps, the greatest modern exponent of the art of making suitable noises in verse. In the following passage from The Congo the sense of hollow-sounding rhythmic percussion is given as nowhere else in English poetry :
+
+“Fat black bucks in a wine-barrel room, 
+Barrel-house kings, with feet unstable, 
+Sagged and reeled and pounded on the table, 
+Pounded on the table, 
+Beat an empty barrel with the handle of a broom 
+Hard as they were able, 
+Boom, boom, BOOM, 
+With a silk umbrella and the handle of a broom,
+Boomlay, boomlay, boomlay, BOOM.”
+
+The percussion is chiefly given by the syncopation, the stressed syllables being detained by a rest, so that they come out extra heavily when they do come. But the syncopation is supplemented by the use of words like “barrel,” “ broom,” “ umbrella,” ‘‘ pounded” ; not only placed at the points of stress but repeated. “ Barrel” occurs three times, but not too obviously, so that the effect is the greater. In his Santa Fé Trail he pits the ugly clacking noise of the motor-car horns and the rattle and roar of the adjacent railroad against the sentimental singing of a small bird, the Rachel Jane—a poem well worth looking out. He has discovered, as Miss Sitwell also has, that whenever a nasty, flat, bad, aggravating noise is wanted, a succession of short a’s do the trick as featly as any other combination of sounds.
+
+The deliberate hissing noise of restlessness which Moses made will have been noticed in the quotation from Rosenberg : his
+
+“. . . restless so restless 
+Behind white mists invisibly 
+My thoughts stood like a mountain.”
+
+And after all this, one may with profit turn up Tennyson’s song from The Princess, where classical texture is tuned up to the point of sharpness:
+
+“The splendour falls on castle walls 
+And snowy summits old in story : 
+The long light shakes across the lakes, 
+And the wild cataract leaps in glory,”
+
+and to the quietness of
+
+“Weep no more, woful shepherds, weep no more, 
+For Lycidas, your sorrow, is not here.”
+
+Messrs Eliot, Sacheverell Sitwell, Rickword, among other poets of the Left, know these passages well, perhaps too well, and frequently use traditional texture as well as metre, rhyme, and diction for satiric ends, or as a heightening of contrast for their more revolutionary pieces; or perhaps they have moments when revolution palls. They are the déclassé aristocrats of poetry who cannot quite forget the social position that 1s theirs by right however violently they have quarrelled with society. (Tolstoi according to Maxim Gorki was of that type.) They wear peasant’s blouses and corduroy trousers on occasion, and even rags, but never part with their signet rings of scholarship and erudition. Others whose malcontentment with tradition is not too strong will actually throw off a poem like Mr Aldous Huxley’s ‘Leda ”—long, rhymed couplets, admirably classical in execution though erotic in tone—and enclose it spitefully in a volume of witty and pathological verse on the subject of guts, adolescence, or putridity.
+
+RHYME
+
+Tue use of rhyme is a vexed question among Conservatives. Milton, Spenser, or Campion, who all as a matter of fact used rhyme, agreed to condemn it as a barbarity. And there are those who still agree ; there is no rhyming in the Latin and Greek classics, which ends the argument so far as the Die-hards are concerned. But on the whole rhyme has it.
+
+The Liberals not only approve of rhyme whole-heartedly but they feel undressed without it, not being allowed to wear the heavy ornaments of heroic diction. On the Left, rhyme is again a vexed question. Some abandon it altogether for exactly the opposite reasons for which the Diehards abandon it, that it is too civilised ; as Mr Flint writes in the essay from which I have already quoted: “ Rhyme is a silly ornament, a nuisance to the ear of a reader educated to appreciate the essential qualities of poetry.”
+
+Others use rhyme doubtfully and are pleased with assonances and near-rhymes of various sorts. ‘This is from Wilfred Owen’s Strange Meetings :
+
+“‘ It seemed that out of the battle I escaped 
+Down some profound dull tunnel, long since scooped 
+Through granites which Titanic wars had groined, 
+Yet also there encumbered sleepers groaned, 
+Too fast in thought or death to be bestirred.
+Then, as I probed them, one sprang up and stared 
+With piteous recognition in fixed eyes.”
+
+The heavy, fateful, nightmareish atmosphere of a Hindenburg tunnel is suggested by the texture “ down some profound dull tunnel,” and by the fact that the consonants of the assonances do not vary: “ escaped,” “scooped,” “ groined,” “ groaned,” “ bestirred,” “stared.” 
+
+Some, among whom Mr Sacheverell Sitwell, rhyme a stressed syllable with an unstressed, which gives a feeling of uncertainty, incompleteness, waiting, where this is required. The general view of rhyme among Conservatives who allow it, and among Liberals, is that rhyme must on No account appear to control the sense. It must come as unexpectedly and yet as inevitably as presents at Christmas. To write rhyme correctly one must give that general sense of free-will within predestination which is a comfort to many. And the chimes must answer each other harmoniously whatever the subject treated. Now writers like Miss Sitwell, who reject the orthodox opinions of philosophers and religious writers, express their dissatisfaction with all the means at their disposal in metre, texture, diction, and as for thyme, not only employ false rhymes, French thymes, Cockney rhymes, assonances, stressed with unstressed, and similar violences, but let the rhymes seem to guide the sense, thus definitely challenging the ethical system with which the orderly use of rhyme is associated; putting forward a view of life as being wedded in error and ugliness, and ruled by caprice. As a matter of fact Miss Sitwell seldom comes out with as direct an arraignment of the philosophical and ethical structure as I have credited her with, but it is implied in all her work. She will even quite sincerely avow herself a traditionalist, but that is no more than bearing lightly home the handle of the family pitcher after it has gone to the well once too often. 
+
+From Miss Sitwell’s “ Facade” :
+
+“The wind’s bastinado 
+Whipt on the calico 
+Skin of the Macaroon 
+And the black Picaroon 
+Beneath the galloon
+Of the midnight sky. 
+Came the great soldan 
+In his sedan,
+Floating his fan— 
+Saw what the sly 
+Shadow’s cocoon
+In the barrocoon 
+Held. Out they fly.
+‘ This melon,
+Sir Mammon,
+Comes out of Babylon ; 
+Buy for a patacoon, 
+Sir, you must buy.’ ”
+
+There has been in the past a good deal of “ bad rhyming” in uneducated quarters; nursery rhymes, country ballads, public-house ditties, merely denote an unfastidious ear ; but I must mention in passing a poem “Old Eliza,” by Mr Claude Abbott, a clever but not always effective Liberal. In order to suggest this rurality he deliberately rhymes “ candlestick ”’ with “ lit,” avoiding the natural rhyme “ wick,” and repeats the same performance lower down to show that it is intentional. Politically this would be called “ playing down to the working classes,” and the technical dexterity of Mr Abbott’s other pieces does not make the appeal convincing. Mr Masefield, who has now become a chief prop of Liberalism, similarly rhymes in his long narrative poem, Right Royal, a grey “ bowler” with a coloured boxer from “ Hispaniola,” wishing in the passage to suggest 4 crowd in holiday mood. And he knows enough of crowds to be able to bring the rhyme off, if he could keep the whole poem dressed up in the same style. But too poetical things happen: one of the jockeys has come to grief and calls out to the hero as he thuds by that he has a chance of catching up the rest of the field.
+
+“They flowed like the Severn, they’ll ebb like the tide.” 36
+
+This is what Conservative journals mean when they complain of Liberal “wobbling,” it comes from an impossible, if courageous, attempt to please both flank parties. The poetical passage, which embodies a discreet reference to Sir Walter Scott, will not flatter the Conservative into admitting “ bowler-Hispaniola” as a new locus classicus. Or not until Mr Masefield dies (may the day be far away) and is duly buried in the Poet’s Corner.
+
+I can suggest an explanation why the Conservatives and steadier Liberals should lay so much stress on the necessity of the consonants being identical in all rhyming syllables, even when, as in “dawn” and “morn,” “ bowler” and “ Hispaniola,” only Celts and other provincials distinguish the a from the er. For, in spite of the pretence of the perfect rhyme, there is a great deal of approved evasion where the rhyming vowel is concerned: thus “ have” and “grave,” “earth” and “ hearth,” “together”? and “wither,” have been approved by four centuries of usage, licensed under the heading of near-rhyme, sightrhyme, and so on. But it is, I think, only the passage of time that has changed most of these rhymes from original complete harmony ; while the pronunciation of one or both has changed, the convenience of the rhyme has been jealously guarded. Then on the analogy of such genuine survivals other near-rhymes have been approved. But the consonants do not change as easily as vowels, and that is why they are kept strictly matched.
+
+STRUCTURE
+
+There is not opportunity here for expanding this subject as it deserves. The actual structure of Conservative poetry is at first sight too familiar for discussion, but without detailed historical interpretation, as anomalous and strange as the British Constitution itself. Recently, I had the task of reviewing the collected poems of Herbert Trench, a poet of the Right Wing, and, though an Irishman, well anglicised by Oxford, so that he had turned his back on the mystery-mongering of the Yeats-ae-Colum group. I found it very dificult to review him, not only because of his recent death, and many friends, and a considerable reputation which I do not want to smirch, and could not if I would, but because also, according to his editor Mr Harold Williams, Trench was an avowed traditionalist in his judgment of human and artistic values, and imbued with the pure classical spirit. I read his “ Deirdre Wedded ” (written before Mr Yeats’ “ Deirdre”), his “ Apollo and the Seaman,” his “ Battle of the Marne,” with respect for their craftsmanship, solidity, and golden phrasing, so I thought “ Here is, in the traditional sense, a true poet, and yet neither I nor my friends who sit facing Mr Trenc across the gangway will find anything much in him to enjoy. Many people seem to think. . . . Many people seem to think”... And then the rest of the rhyme came into my head, grotesque, ungrammatical, vivid, the antithesis , grotesque, ungrammatical, vivid, the antithesis of everything that Trench could ever have written:
+
+“ Many people seem to think 
+Plaster of Paris good to drink. 
+Though conducive unto quiet 
+I prefer another diet.”
+
+And I recalled also the queer interpretative illustrations done on rough bamboo paper by the author, Gelett Burgess, for the Lark: a group of earnest-looking Boston intellectuals of the 1890's, drinking the vile stuff out of mugs and stiffening into the well-known poses of Discobolus, Dying Gaul, and the rest. And then I realised, what I had never seen before, that Burgess, a romantic Radical, was satirising the contemporary Right Wing and their theory of Art and Poetry.
+
+For the Right Wing thinks of poetry as an easily prepared substance, a well-dehydrated gypsum, for instance, which can be stored in a cool place until required, and then moistened with any emotional or intellectual liquid and poured into prepared moulds. These moulds the poet may make himself, provided he observes certain measurements and does not decorate them too fantastically. But he must not let them crack when he pours the stuff in rather hot.
+
+Burgess has carried the metaphor to romantic excess by showing the poets in a rigor artis after using their own bodies as classical moulds: which is the sure result of habitually taking plaster of Paris. Now, Trench drank the very best plaster, compounded by himself according to his own recipe; he chose his moulds carefully ; he saw that they fitted close, and smoothed off the slight ridges afterwards. But, as I say, the revolutionaries will be unlikely to respect this craftsmanship: they will find any deep draught of his work conducive unto quiet, they will prefer another diet.
+
+The question of structure really concerns the legitimate relations of ideas within a poem. Tradition enjoins that certain relations of ideas are more worthy than others, because reason must rule both in religion, civics, and poetics. The word “ God,” for instance, is at the summit of the whole pyramid of ideas, because God is Universal Mind, and Mind is (unfortunately, I think) identified with Reason. ‘The word “ God ” should decently be associated with Omnipotence, Prayer, Mercy, and so on: not blasphemously with trifles like ‘‘ bootlace,” or “ timetable.’ And though (as Samuel Butler once noted in a letter to Miss Savage) to a lexicographer “ God” may merely be the word that comes next after “ go-cart,” there is no merit in this accidental association: it must not become permanent, that is “ go-carts ” must not claim a lien on the Divine principle which would be denied to other wheeled vehicles less fortunately initialed. Similarly, just because “ wisteria” rhymes with “ hysteria” there is no cogent reason for continually mating these two ideas as Miss Sitwell does. ‘‘ Wisteria ” should mate (if sadeed the flower has been listed in the register) with “ clematis,” “ porch,” “ home-thoughts from abroad.” Again, the fact that a poet owns or is owned by a dog called Wolf, is no excuse for distorting, in poetry, the generally accepted Wolf-idea of fierceness and rapacity into one of faithfulness and good-humour. I remember once seeing a list of appropriate adjectives for poetic nouns in a gradus bound up at the end of a late-seventeenth-century miscellany. ‘“ Zephyr,” for instance, was cool, cooling, amorous, curious, balmy, and so on. “ Bread ” was wholesome, wheaten, oaten, crisp, homely, tasty, and so on. If “Wolf” was there he was, without doubt, greedy, gluttonous, savage, coward, with privy paw, ravening, and the rest. Never could he escape these attributions while the Almighty continued to reign.
+
+The Left Wing challenges all these inhibitive rules, denying the whole philosophical and ethical and aesthetic structure on which they rest—‘ zephyr” in the Sitwell world, for instance, is liable to become “ bird-soft,” “wooden,” : creaking,” “with satyr-hooves,” “ owl-dark,” “scorching, oranything else, The free-associative method is held to be as reputable as the method of relating ideas, according to certain reasonable encyclopedic categories bound by a common quality, according to the logic of cause and effect, or according to spatio-temporal sequence. The Left Wing will expect a poem to have any growth it pleases, provided that it is organic growth. It may be upwards like a tree, or sideways like mildew, or intricately every-which-way like a cancer. It need not be bound by any preconception of how it will eventually turn out: its metre may change, its diction, purpose, characters, setting. Caprice may rule it, as they claim it also rules life; the extremists say always, the moderates say as often as not. To deny the place of caprice in poetry is deliberately to deny one’s daily experience. The incidents of any theme may be bound by the most profound or the most trifling associations, and if poetry is to interpret life, the most fantastically hinged events must appear in it ; and yet, as happens in daily life, after the moment of caprice is over, a poem written by the freest of free association methods finds that it has a structure of sorts, one broader and more intense than was consciously formulated before or during composition.
+
+And as for the hysteria-wisteria connection, the Left will point out that the Conservative claim is no more consistent than the survival of Eton, or the Poor Laws, or Court-dress, or the House of Lords in a self-styled democracy. The traditional use of rhyme encourages such permanent partnerships as “cup” with “ drink it up,” “world? with ‘ flags furled,” “ earth ” with ‘ birth ” and “ dearth,” “ mouth ” with “ drouth ” and “ south,” “self? with an archaistic use of “elf,” and ‘ God” (not with “ go-cart ”) but with “ rod,” which is inclined to limit the attributes of God to empire and vengeance. The use of certain fixed metrical poems will similarly limit the possible relations of words, and debar others like the adverb “ necessarily,” which ends in four successive short syllables, from ever showing its head.
+
+Not much need be written about the structure of Liberal poetry: not much of it is written beyond lyric length. It will be found well-catenated but not on the rigid classical plan, having more in common with the modern short story or descriptive essay. Couplets or longish stanzas will be used, or blank verse. Occasionally it takes the form of poetic-drama most suitable for the repertory theatre but for its disability of being written in verse. Lyric sequences on an amorous or contemplative theme are also favoured.
+
+But let us discuss in greater detail the more surprising structure of Left Wing verse. Mr Eliot’s The Waste Land is a useful poem to examine, as it won the prize offered by the Dzal for the best modern imaginative work of its year. It is a structure that has gradually developed for the reader, as it seems to have gradually developed for the poet over a period of months and even years. The relations between the parts that now appear seem to have been unsuspected by him until the poem was nearly complete; and he seems to have discovered them, and tightened them up afterwards in his revision. Some of the intertwined threads on which the sequence of variously metred and dictioned and ornamented pieces are strung are: a semi-mystic ethnological theory of the “Holy Grail,” which the poet met in a book by Miss Jessie Weston; a clairvoyante’s prognostication from a Tarot pack of cards; the wish for death that follows the output of too much emotional or prophetic fire, as the Cumzan Sibyl felt it; the seer Teiresias’ double-sexed view of human relations as described in Ovid; the disciples of Christ journeying to Emmaus; Buddha’s fire-sermon. It would be wrong to deny that these themes can and do fuse into a strongly cohesive individuality, glazed and incrusted with all manner of random images from life and literature ; but impossible, I think, to find in it a structure of any purposed or educational kind. It is work admirably descriptive of a glorious and complete intellectual tangle, a maze thick with cul-de-sacs, the chief of which are dissatisfaction both with Bostonianism or Oxonianism, and with the crudeness of the Philistinism which denies Boston and Oxford; conflict between theoretical hedonism and disgust of hedonism in practice ; conflict between a desire for religious mysticism and the sophistication which prevents him from abandoning himself to it. In the passage I quoted about the poet fishing in the dull canal behind the gas-house, we saw clearly the materialistic present and the idealistic past at their assaults and counter-assaults. The passage contains allusions to Marvell’s “ Coy Mistress,” to Shakespeare’s Tempest, to Verlaine’s Parsifal, and
+
+“ The sound of horns and motors which shall bring 
+Sweeney to Mrs Porter in the spring”
+
+is a violent parody of Day’s Parlement of Bees:
+
+“ When of the sudden, listening, you shall hear 
+A noise of horns and hunting which shall bring
+Acteon to Diana in the spring 
+Where all shall see her naked skin.”
+
+In an elaborate set of notes Mr Eliot gives us these and similar references to the literary sources of the poem, but I have no doubt that there are a great many intererelations in the piece which Mr Eliot himself has not noticed. 
+
+The structure of The Waste Land is, in a sense, a negative structure. If a large family, kept together unwillingly in the same house by economic and social reasons, but not by any ties of true affection, could be caught at a moment of disintegration — not necessarily all in the same room together, nor even particularly conscious of each other’s activities—all making claims and each refusing to meet the other’s claims, then the intricate disharmonies of that house, the subtle cross-references of conflict, would give it an individuality as strong as that of a house where everyone was positively at peace.
+
+Mr Edgar Lee Master’s Spoon River Anthology has a more parochial style but a similarly negative structure. It is a series of free-verse epitaphs on the dwellers by the banks of an American river — a few pure-minded, suffering characters, but mostly cruel, hypocritical, debauched, gloating, and all at odds with each other.
+
+Miss Edith Sitwell’s Sleeping Beauty is in structure a succession of fantastic poetic reveries seen in a conventional mirror. She reminds me of that famous Alice who won immortality by getting tight inside a Victorian mirror and found, beyond the conventional view of drawing-room and passage, all sorts of new, strange things happening ; and she is further commendably aware that, though this fantastic view of the drawing-room has not contrariwised or no-howed the accustomed one, LookingGlass-Land is more than “only a dream,” it is another aspect of truth. What could be more conventional than the “ Sleeping Beauty ” story? But read Miss Sitwell’s version. ‘Then, if you peevishly complain: ‘ But what about Prince Charming? She has cut the story off short,” don’t forget that our familiar version is only a small part of Perrault’s original horrible tale, in which, instead of “happily ever after,” we wade in murders and obscenities, and in the end find the Sleeping Beauty cut up and dressed for a cannibalistic feast, but, we are cynically informed, her hundred-year sleep had made her mighty tough eating. Wisely, then, Miss Sitwell leaves her heroine still slumbering in the forest, and—
+
+“ 'Oh far best,’ the gardener said, 
+‘ Like fruits to lie in your kind bed, 
+To sleep as snug as in the grave 
+In your kind bed and shun the wave, 
+Nor ever sigh for a strange land 
+And songs no heart can understand.’ ”
+
+The Sleeping Beauty has the inconsequent but powerful movement of a dream, and is strewn with memorable images. ‘Tradition appears as a Dowager-Queen whose two interests in life are Latin missals and a parrot :
+
+“ Long ago 
+Dead, but none dared tell her so. 
+And therefore the bird was stuffed and restored
+To lifeless immortality ; bored 
+It seemed, but yet it remained her own.”
+
+And we are introduced to
+
+“ Country gentlemen, so countrified 
+That in their rustic grace they try to hide 
+Their fingers sprouting into leaves,”
+
+and to Laidronette, most wicked of Society hostesses in Fairyland, as she unwigs herself for the night, disclosing “that roc’s egg, her head,” to her delighted attendant apes. (I met Laidronette once myself riding in her sedan chair, and believe this account absolutely.)
+
+As fantastic and yet more consequent is Mr Sacheverell Sitwell’s Parade Virtues for a Dying Gladiator, written in a sort of remote blank verse. The scene is in a Callotesque arena. A grotesque philosopher appears, raises an ambitious, cloud-piercing structure of planks and scaffolding. As he makes his bow the whole fabric crashes and he falls. He spits blood and words. This stream from his mouth changes, dream-like, into a sea covering the arena. Ships appear and fight. A second philosopher arrives and gets torn in pieces between two grappling ships. A third philosopher makes a short protest through a horn against conventional religion and takes poison and dies. A fourth, on stilts, tries to stuff the dead bodies of his predecessors into a sack after spearing them with a a trident, but their weight breaks his stilts and he falls into the sea, where, using one stilt as a crutch, he makes a dying speech, preaching a new morality of ambition. A fall of stage snow interrupts him, for the next scene is to be a fight on sledges. He rolls snowballs and pelts the audience with them. He intends to make them weep and sneeze and so be distracted from watching his successors. I will not here attempt any detailed psychological or metaphysical interpretation: I only wish to call attention to the structure, and to the fact that a dream, however fantastic and metamorphic, can have a positive no less than a negative sense. Parade Virtues is making a definite criticism of history and giving a treatise on individualism which, though anti-social and, therefore, unclassical, is, at any rate, not self-contradictory in statement. 
+
+The predominance of this fantastic dream structure in Left-Wing poetry I read as a challenge to the disrespectful attitude which the practical man has towards dreams, nightmares, and fantasies. It is true that classical tradition admits certain formal and educative dreams in : poetry ; indeed the medieval May-day dream is a very cz qi nuisance for its frequency ; but these admitted dreams are not really dreams at all, being purged of all their illogical and anti-social structure and elements. And while the dream is always clearly distinguished from practical life in classical poetry, “I fell asleep and then I awoke and found it was all a dream,” the Left Wing mixes up the practical life confusedly with the dream. The Right Wing regards this as madness, for the definition of insanity is that the insane does not distinguish dreaming from waking. But the Left Wing does not value the practical life more than the dream, and often a good deal less. The political analogy here is easy and important.
